@@ -1,0 +1,16 @@
+# Byte‑code Python
+__pycache__/
+*.py[cod]
+
+# Dados brutos e outputs
+data/
+reports/
+
+# VS Code
+.vscode/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints
+
+# Ambiente virtual (caso use no futuro)
+venv/
