@@ -1,21 +1,14 @@
-# Python
-__pycache__/
-*.py[cod]
+ # Jupyter
+ **/.ipynb_checkpoints
 
-# Data
-data/raw/
-*.html
-*_assets/
+ # Logs e temporários
+ *.log
+ trashtemp/
 
-# VSCode
-.vscode/
+ # Credentials
+ src/data/olx_api/credentials.json
 
-# Jupyter
-**/.ipynb_checkpoints
-
-# Logs e temporários
-*.log
-trashtemp/
-
-# Credentials
-src/data/olx_api/credentials.json
+ # ignorar HTML em geral
+ *.html
++# mas não ignorar os HTMLs de reports
++!reports/*.html
