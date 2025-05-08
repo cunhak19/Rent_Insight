@@ -1,16 +1,21 @@
-# Byte‑code Python
+# Python
 __pycache__/
 *.py[cod]
 
-# Dados brutos e outputs
-data/
-reports/
+# Data
+data/raw/
+*.html
+*_assets/
 
-# VS Code
+# VSCode
 .vscode/
 
-# Jupyter checkpoints
+# Jupyter
 **/.ipynb_checkpoints
 
-# Ambiente virtual (caso use no futuro)
-venv/
+# Logs e temporários
+*.log
+trashtemp/
+
+# Credentials
+src/data/olx_api/credentials.json
