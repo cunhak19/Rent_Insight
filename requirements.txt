@@ -1,0 +1,7 @@
+pandas
+folium
+scikit-learn
+requests
+beautifulsoup4
+geopandas
+scipy

@@ -7,7 +7,7 @@
 
  # Credentials
  src/data/olx_api/credentials.json
-
+.env
  # ignorar HTML em geral
  *.html
 +# mas não ignorar os HTMLs de reports
