@@ -1,0 +1,2001 @@
+price_eur,rooms,area_m2,property_type,floor,furnished,building_age,dist_center_km,dist_metro_m,neighborhood
+1360,4,207,T3,7,True,10,13.0,100.0,Estrela
+4272,4,224,Studio,2,False,20,4.8,1500.0,Santo António
+3592,5,91,T5,5,True,,2.8,1000.0,Alvalade
+966,5,87,T1,4,False,,6.8,1000.0,Estrela
+4926,1,190,Studio,7,False,20,6.3,100.0,Olivais
+3944,5,104,T4,3,True,20,8.8,1500.0,Parque das Nações
+3671,3,45,T2,7,True,30,9.0,500.0,Belém
+3419,0,111,T4,9,False,,11.4,1500.0,Avenidas Novas
+630,0,123,T2,1,True,50,7.9,1000.0,Avenidas Novas
+2185,0,77,T3,8,False,10,2.0,300.0,Parque das Nações
+1269,1,167,T1,8,False,5,12.9,500.0,São Domingos de Benfica
+2891,1,111,T3,9,False,5,5.0,300.0,Alvalade
+2933,2,67,T2,9,,50,14.6,500.0,Avenidas Novas
+1684,0,156,T2,5,,20,2.2,1500.0,Santa Maria Maior
+3885,3,48,T2,3,,20,14.4,100.0,Olivais
+4617,5,193,T5,3,True,20,1.8,1500.0,Belém
+3404,3,216,Studio,5,True,,3.9,500.0,Arroios
+974,5,92,T1,4,True,20,1.2,500.0,Alvalade
+1582,0,106,T3,5,,20,10.7,500.0,Ajuda
+3058,0,203,T3,6,,,12.8,500.0,Lumiar
+2547,0,160,T4,6,,,6.8,300.0,Santa Maria Maior
+3247,1,231,T2,8,True,50,14.0,500.0,Parque das Nações
+1475,5,131,T2,7,,30,9.1,1500.0,Arroios
+2306,1,94,T2,5,False,,9.6,1500.0,Olivais
+689,1,149,T3,5,True,10,12.8,100.0,Santo António
+3234,4,120,T4,4,False,20,4.8,500.0,São Domingos de Benfica
+3505,3,37,Studio,0,True,30,5.6,500.0,Santa Maria Maior
+2399,3,208,T5,8,False,5,13.6,1000.0,Arroios
+1767,2,238,T1,8,True,50,13.6,500.0,Benfica
+2028,1,102,Studio,8,False,30,14.7,1000.0,Misericórdia
+3702,5,163,T3,7,False,,13.6,500.0,São Domingos de Benfica
+4056,4,136,T5,9,,20,2.3,300.0,São Domingos de Benfica
+4390,4,118,T5,2,False,20,12.4,500.0,Santo António
+1146,3,68,T5,0,False,20,6.4,1500.0,Parque das Nações
+3388,1,142,T2,7,,30,14.9,100.0,Misericórdia
+2935,2,217,T1,6,,20,7.3,500.0,Ajuda
+1100,1,57,T3,4,True,,8.5,500.0,Arroios
+2863,0,126,T3,9,False,30,8.2,500.0,Olivais
+2561,1,211,T5,6,True,20,5.2,100.0,Ajuda
+741,0,66,T3,9,True,5,1.6,500.0,Misericórdia
+2541,0,166,T1,3,False,5,13.5,100.0,Arroios
+3324,2,111,T1,8,,10,12.1,500.0,Ajuda
+3112,5,85,T4,9,True,20,2.5,1500.0,Alvalade
+1863,3,216,T4,1,,20,11.8,100.0,Avenidas Novas
+1978,1,114,Studio,8,,30,9.6,500.0,Santa Maria Maior
+3056,0,31,T1,8,,30,6.4,1500.0,Estrela
+1275,1,218,T1,4,True,20,4.2,1500.0,São Domingos de Benfica
+4514,5,87,T1,0,,10,13.0,500.0,Lumiar
+534,3,136,T4,6,True,20,10.7,500.0,Belém
+3652,5,152,T5,9,False,,8.4,300.0,Alvalade
+2455,3,217,T5,9,True,30,9.3,1500.0,Ajuda
+2085,4,197,T3,3,True,20,1.8,500.0,Olivais
+4443,3,193,T5,8,False,30,7.4,1500.0,Benfica
+3573,2,143,T2,5,False,20,3.3,100.0,Estrela
+1521,5,136,T4,2,True,50,3.5,1000.0,Belém
+3961,0,66,T1,5,True,30,10.1,1000.0,Alvalade
+3113,4,108,T5,9,False,10,13.7,500.0,Avenidas Novas
+4343,2,121,T4,5,True,50,6.4,500.0,Benfica
+2000,1,47,T5,4,,,3.5,500.0,Benfica
+661,5,127,Studio,1,True,20,9.9,1500.0,Benfica
+4797,0,92,T1,9,True,,13.1,500.0,Estrela
+2481,3,179,Studio,9,True,30,11.4,500.0,Santa Maria Maior
+1495,0,168,T1,1,False,50,13.1,1500.0,Arroios
+3842,1,215,T4,6,True,,8.3,500.0,Alvalade
+4298,4,214,T3,1,True,10,11.4,1500.0,Arroios
+1775,4,234,T5,5,,30,2.5,500.0,São Domingos de Benfica
+1516,5,33,T5,4,False,50,5.5,300.0,Parque das Nações
+837,4,243,T2,3,True,,6.1,1500.0,Estrela
+1378,5,164,Studio,6,False,50,7.9,300.0,Benfica
+1576,5,90,T5,7,,50,14.0,300.0,Benfica
+4493,5,136,T4,3,True,,13.2,300.0,Santo António
+879,3,83,T3,0,True,5,2.5,300.0,Santo António
+992,2,117,T4,0,False,20,3.0,100.0,Estrela
+2562,5,97,Studio,0,False,30,5.7,500.0,Avenidas Novas
+4384,5,249,T2,0,False,30,4.7,1000.0,Parque das Nações
+564,2,236,T5,4,True,30,9.4,100.0,Lumiar
+3068,0,158,T4,3,True,50,13.6,500.0,Olivais
+2527,5,84,T1,8,False,,14.5,500.0,Lumiar
+3195,3,32,T3,2,True,20,10.0,500.0,Arroios
+1995,4,235,T4,6,False,10,12.7,1000.0,Estrela
+891,4,195,T3,7,False,30,8.1,1000.0,Olivais
+4974,1,150,T5,5,True,,3.5,1000.0,Lumiar
+4061,1,158,T1,9,,20,8.1,300.0,Arroios
+2778,4,131,T2,0,,20,8.5,100.0,Ajuda
+3599,4,67,T2,7,False,5,11.3,500.0,Misericórdia
+700,3,114,T1,9,True,,3.7,100.0,Santa Maria Maior
+3604,2,186,T3,2,True,30,5.8,100.0,Olivais
+2954,1,162,T5,7,False,50,5.8,100.0,Belém
+4145,2,231,T4,3,True,20,14.4,1000.0,Olivais
+1304,3,121,T1,7,,20,6.9,500.0,Arroios
+3231,4,50,Studio,0,True,10,11.4,500.0,São Domingos de Benfica
+3273,5,228,T3,2,False,5,11.4,1000.0,Santa Maria Maior
+2070,2,224,T2,5,True,20,4.4,500.0,Benfica
+3190,4,138,T1,8,False,20,8.8,500.0,Santa Maria Maior
+4340,4,76,T2,1,True,50,13.5,500.0,Arroios
+1528,0,113,T3,0,False,50,7.4,500.0,Santa Maria Maior
+1002,2,112,T2,9,True,10,14.2,500.0,Alvalade
+4993,5,64,T1,2,,,3.6,100.0,São Domingos de Benfica
+1370,2,225,T3,3,True,10,1.6,1000.0,Avenidas Novas
+4988,4,98,Studio,4,,10,13.4,300.0,Benfica
+706,5,158,T1,2,,50,12.8,100.0,Arroios
+1984,3,225,T4,9,True,,14.9,1500.0,Avenidas Novas
+1363,0,169,T5,1,False,50,10.4,500.0,São Domingos de Benfica
+3290,4,217,T1,1,True,5,14.1,100.0,Lumiar
+1063,1,56,T3,6,,30,12.5,1000.0,Misericórdia
+4691,1,85,T5,8,False,30,12.7,1500.0,Arroios
+2257,0,52,T1,9,True,5,8.8,100.0,Lumiar
+2178,3,182,Studio,1,True,30,6.0,1000.0,Belém
+3742,4,50,Studio,6,True,,14.1,1000.0,Alvalade
+1559,2,90,T4,6,,50,6.8,500.0,Santa Maria Maior
+2222,0,92,T2,6,True,30,8.3,300.0,Ajuda
+3814,3,151,T5,2,False,,7.0,100.0,Santa Maria Maior
+3657,2,81,T3,6,False,50,8.7,1000.0,Santo António
+3125,1,117,T3,0,,,7.3,500.0,Alvalade
+3229,1,182,T2,9,True,5,1.2,1000.0,Benfica
+2097,2,84,Studio,0,False,10,13.3,300.0,São Domingos de Benfica
+3560,0,75,Studio,4,False,5,6.9,1000.0,Misericórdia
+3193,1,61,T1,1,False,30,9.0,500.0,Alvalade
+4127,4,84,T4,8,True,50,2.5,100.0,Avenidas Novas
+1863,5,125,T5,6,True,,0.5,500.0,Olivais
+2481,2,162,T4,3,True,30,4.1,100.0,Ajuda
+2163,2,65,T4,3,False,30,10.7,1500.0,Benfica
+2029,1,139,T1,1,True,10,1.9,100.0,Olivais
+2538,0,206,T4,4,False,30,13.7,1500.0,Benfica
+3802,4,135,T2,3,True,10,3.6,500.0,Olivais
+2737,0,87,T1,0,,50,3.5,500.0,Parque das Nações
+1806,3,68,T2,7,,50,3.1,300.0,Misericórdia
+4529,3,109,T1,2,False,,0.7,500.0,Lumiar
+3175,5,126,T4,5,True,10,11.7,1500.0,Santa Maria Maior
+1782,1,142,T2,3,True,5,13.2,1000.0,Alvalade
+1209,1,242,T2,8,True,50,9.4,1000.0,Belém
+4913,1,90,T2,6,True,,3.2,500.0,Olivais
+4248,5,166,T1,8,False,5,4.6,1000.0,Parque das Nações
+1163,3,35,T3,9,False,50,7.4,1500.0,Misericórdia
+2498,0,138,T4,2,,50,14.3,500.0,Belém
+3945,5,64,T2,0,True,,4.1,300.0,Santo António
+4243,5,68,T5,4,False,,11.1,100.0,Alvalade
+1995,0,179,T3,2,False,20,6.9,1500.0,Parque das Nações
+3804,1,198,T5,5,False,30,4.8,1500.0,Belém
+4263,4,147,T4,7,True,30,7.1,100.0,Ajuda
+2353,0,34,T4,3,False,5,1.5,100.0,Estrela
+1791,3,199,T2,4,False,30,12.1,300.0,Santa Maria Maior
+4081,2,116,T2,4,False,5,4.0,300.0,Benfica
+3957,2,238,T1,3,,50,11.0,300.0,Benfica
+2136,5,105,T3,3,True,20,1.5,1000.0,Arroios
+4196,2,244,T3,3,True,20,14.3,1500.0,Santo António
+3499,4,237,T2,3,False,50,3.3,500.0,Ajuda
+3652,1,224,T4,3,False,,13.3,100.0,Santa Maria Maior
+1198,3,187,T2,4,True,10,12.2,1500.0,Estrela
+2660,4,86,T4,1,False,10,14.5,1500.0,Arroios
+4597,3,156,T4,1,,30,7.4,300.0,Belém
+1354,3,243,T2,8,,,11.0,300.0,Arroios
+3974,1,230,Studio,1,True,5,5.9,1500.0,Olivais
+2207,5,58,T3,5,,20,3.2,300.0,Ajuda
+3277,2,194,T5,1,False,30,6.9,1000.0,Parque das Nações
+2233,1,116,T4,4,False,50,2.9,100.0,Parque das Nações
+4010,4,170,T4,3,False,,14.7,1500.0,Estrela
+702,5,189,Studio,6,,20,1.9,100.0,Alvalade
+3755,4,75,T5,6,False,5,9.0,1000.0,São Domingos de Benfica
+4718,5,145,T1,5,True,5,9.6,300.0,Santa Maria Maior
+4996,4,141,Studio,9,False,10,8.3,500.0,Avenidas Novas
+1266,1,180,T5,4,False,30,10.1,1000.0,Parque das Nações
+4889,5,74,Studio,0,True,50,2.2,500.0,Ajuda
+2827,5,174,T4,2,,20,8.5,100.0,Misericórdia
+3431,3,133,T3,8,False,5,4.7,1500.0,Benfica
+697,3,114,Studio,0,False,20,14.1,300.0,Misericórdia
+2430,0,223,T1,4,True,50,11.6,1000.0,Arroios
+4082,4,163,T2,1,False,20,14.6,300.0,Lumiar
+1108,3,137,T5,3,True,30,1.0,500.0,Olivais
+3772,0,47,Studio,0,True,10,4.6,500.0,Lumiar
+1647,3,123,Studio,2,False,20,3.3,500.0,Ajuda
+4782,4,179,T1,9,False,,0.7,1500.0,Lumiar
+3897,5,62,T3,6,False,10,4.0,500.0,Misericórdia
+3011,2,187,Studio,9,True,50,10.3,1500.0,Avenidas Novas
+2294,4,238,Studio,2,False,10,3.9,500.0,Alvalade
+1159,1,155,T3,3,True,20,7.9,1000.0,São Domingos de Benfica
+3311,3,189,T1,1,,20,13.4,500.0,São Domingos de Benfica
+1869,3,199,T5,2,False,,10.6,1500.0,Ajuda
+2486,5,235,T5,8,False,5,6.2,500.0,Benfica
+646,1,151,Studio,2,True,,5.9,100.0,Santo António
+3719,5,167,T3,4,True,20,7.1,1500.0,Estrela
+3411,1,144,Studio,1,,10,3.1,300.0,Ajuda
+2234,2,193,T2,3,True,,9.7,100.0,Belém
+2343,3,191,T5,6,False,,5.8,1500.0,Benfica
+988,3,230,T4,6,False,5,12.9,300.0,Ajuda
+3476,2,57,T2,2,True,20,11.5,500.0,Belém
+2459,0,40,Studio,4,,20,9.4,100.0,Benfica
+2885,5,235,T1,0,False,50,5.8,1500.0,Arroios
+3419,2,196,T5,9,True,5,3.5,1000.0,Parque das Nações
+2302,5,76,T4,9,True,50,11.8,500.0,Olivais
+4561,4,156,T2,9,True,50,7.6,300.0,Parque das Nações
+3869,3,176,T5,0,,50,3.8,1000.0,Misericórdia
+762,5,147,T3,4,False,30,3.3,500.0,Santo António
+1123,1,172,T1,9,True,50,2.9,500.0,Estrela
+1516,5,155,T2,8,True,,11.8,500.0,Parque das Nações
+4143,4,185,T3,0,False,10,3.8,1500.0,Santa Maria Maior
+2549,3,181,Studio,0,False,,8.1,1500.0,Ajuda
+4223,2,101,T3,3,False,,7.0,300.0,Santa Maria Maior
+3608,4,136,T2,3,True,20,8.9,500.0,Arroios
+4590,3,166,T2,1,True,30,13.2,1500.0,Lumiar
+2556,5,204,Studio,8,False,50,13.1,500.0,Misericórdia
+3670,0,62,T3,8,,20,7.0,1500.0,Parque das Nações
+2182,0,219,T3,1,True,5,0.7,500.0,Alvalade
+2755,1,48,Studio,8,False,5,6.7,100.0,Avenidas Novas
+1654,3,224,T3,5,False,20,9.3,1000.0,Estrela
+4999,0,103,T5,7,False,10,8.6,500.0,Lumiar
+3691,2,197,Studio,9,True,20,9.9,500.0,São Domingos de Benfica
+2196,3,204,T1,3,,20,2.7,500.0,Olivais
+4491,2,222,T2,1,False,30,9.9,500.0,Santo António
+2148,2,186,T1,1,False,5,3.1,500.0,Ajuda
+1945,0,207,T5,8,True,5,11.4,1000.0,Arroios
+4699,3,127,T5,0,True,50,5.4,1000.0,Benfica
+4423,5,170,T4,6,True,,10.8,500.0,São Domingos de Benfica
+753,4,158,T4,2,False,20,1.2,500.0,Parque das Nações
+3683,0,191,T4,2,True,20,6.4,1000.0,Alvalade
+3057,0,122,Studio,1,False,10,10.7,300.0,São Domingos de Benfica
+598,5,205,T3,9,True,5,3.8,500.0,Estrela
+2700,3,234,T5,5,False,10,12.0,1000.0,Olivais
+3461,3,77,T1,9,False,30,9.6,100.0,Parque das Nações
+4933,2,206,T1,1,True,50,9.0,100.0,Olivais
+4277,5,93,T1,9,True,10,5.6,300.0,Lumiar
+3369,5,90,T1,3,True,5,7.5,1000.0,Avenidas Novas
+3734,3,186,T4,9,False,30,9.2,100.0,Santa Maria Maior
+4291,2,68,T1,8,False,20,7.4,500.0,Lumiar
+1456,0,157,T3,8,True,30,10.6,1500.0,Misericórdia
+4567,1,117,T4,5,False,,6.8,1000.0,Parque das Nações
+660,4,55,T1,3,True,10,3.4,300.0,Avenidas Novas
+4993,0,46,Studio,6,True,5,3.6,1000.0,Arroios
+1800,3,100,T2,0,True,10,0.6,500.0,Avenidas Novas
+4487,4,42,T2,3,,20,4.9,500.0,Estrela
+2027,1,98,T2,4,True,20,11.4,100.0,Benfica
+1718,1,55,T4,7,True,5,12.0,500.0,Benfica
+4996,2,78,T1,1,True,,3.4,300.0,São Domingos de Benfica
+3604,4,224,T5,4,True,50,14.4,100.0,Ajuda
+3235,2,36,T5,5,False,30,7.8,300.0,Ajuda
+1454,0,87,T5,4,True,30,13.8,500.0,Estrela
+3946,5,78,T4,8,True,20,10.7,300.0,Santo António
+1545,5,132,T3,9,False,10,11.0,500.0,Parque das Nações
+2193,5,82,Studio,0,True,10,1.7,500.0,São Domingos de Benfica
+3936,4,222,Studio,2,False,,3.7,500.0,Parque das Nações
+1062,5,91,T2,1,False,50,0.6,300.0,Lumiar
+2985,0,46,T2,2,True,10,10.9,500.0,Avenidas Novas
+3854,2,200,T5,9,False,30,5.5,500.0,Alvalade
+725,4,54,T5,8,True,10,11.9,500.0,Avenidas Novas
+1459,2,160,T2,8,False,50,5.4,1000.0,Ajuda
+3567,4,236,T1,9,False,30,12.4,500.0,Santo António
+1315,2,58,T3,1,True,10,2.4,500.0,Alvalade
+3620,1,146,T3,2,False,30,3.0,500.0,Parque das Nações
+516,2,189,T3,3,,20,5.4,300.0,Ajuda
+1743,5,55,T3,8,,20,6.4,1500.0,Benfica
+2705,1,153,T2,2,False,,5.6,300.0,Olivais
+3024,2,173,Studio,6,False,20,11.6,500.0,Ajuda
+1569,4,54,T2,2,True,10,1.9,100.0,Parque das Nações
+3944,4,83,T3,6,True,50,5.6,500.0,Avenidas Novas
+3065,4,185,T2,6,False,30,12.6,500.0,Parque das Nações
+1560,3,102,T3,8,True,5,1.5,1500.0,Olivais
+2827,0,149,T4,1,,20,14.2,100.0,Alvalade
+3920,4,85,T5,5,True,20,14.8,1000.0,Estrela
+801,1,94,Studio,8,True,5,1.8,300.0,Olivais
+4776,4,122,T4,1,True,5,4.7,1000.0,Santo António
+1106,3,115,T1,1,,10,5.9,100.0,Benfica
+3670,5,109,T2,4,False,30,11.8,1500.0,Santa Maria Maior
+1199,1,198,T1,9,False,20,9.1,100.0,Avenidas Novas
+1639,3,137,T2,9,True,50,9.8,1500.0,Parque das Nações
+690,5,208,T5,9,,10,11.5,1000.0,Arroios
+2800,1,147,T4,7,True,10,2.2,1000.0,Benfica
+1480,2,228,T5,8,,50,12.6,100.0,Alvalade
+3475,0,235,T3,1,False,50,10.7,100.0,Olivais
+1684,0,186,T5,4,True,,8.9,500.0,Parque das Nações
+3827,3,112,T5,6,False,50,13.4,1500.0,São Domingos de Benfica
+3894,5,176,T3,5,False,5,10.7,500.0,Parque das Nações
+627,0,223,T2,5,True,20,3.4,300.0,Olivais
+2565,5,198,T3,6,,,6.7,300.0,Estrela
+2316,5,202,T4,2,False,5,7.7,100.0,Santa Maria Maior
+1069,3,44,T5,2,True,,1.3,1000.0,Olivais
+2395,3,160,T3,9,True,20,14.3,300.0,Avenidas Novas
+3233,3,168,T5,8,False,,2.4,300.0,Ajuda
+4363,0,210,T4,7,False,5,10.6,500.0,Belém
+4514,3,203,T1,4,False,30,7.8,500.0,São Domingos de Benfica
+3401,0,59,T4,5,False,20,0.9,300.0,Estrela
+2186,3,86,Studio,9,False,10,13.9,100.0,Belém
+3509,4,175,Studio,0,,20,12.9,500.0,Alvalade
+654,5,208,Studio,9,False,20,8.1,300.0,Lumiar
+3037,3,157,T5,0,,20,3.8,1000.0,Benfica
+1909,1,77,T2,3,True,30,2.3,500.0,Avenidas Novas
+4557,5,223,T2,1,True,5,5.8,300.0,Misericórdia
+1284,5,165,T2,6,True,10,4.2,1500.0,Olivais
+3675,3,51,T5,1,False,5,7.8,500.0,Benfica
+4841,2,35,T4,9,,,14.5,1500.0,Misericórdia
+3306,3,233,T2,1,True,,8.8,500.0,São Domingos de Benfica
+1037,5,214,T1,4,True,,13.4,500.0,Alvalade
+2341,1,133,Studio,3,,5,9.9,500.0,Alvalade
+2955,5,65,T4,7,True,50,7.4,500.0,Lumiar
+1024,1,108,Studio,3,False,30,12.9,1500.0,Estrela
+3450,0,249,T2,5,False,50,7.3,100.0,Benfica
+4631,4,145,T4,4,,,13.1,300.0,Avenidas Novas
+4615,5,86,T3,1,True,30,4.7,100.0,Benfica
+2868,3,78,T1,7,True,5,2.4,100.0,Avenidas Novas
+4347,0,202,T2,1,False,,12.9,500.0,Olivais
+4995,4,111,T2,8,,5,9.0,300.0,Alvalade
+3201,3,95,T1,8,False,30,13.4,500.0,Misericórdia
+1471,2,106,T1,2,True,5,14.1,500.0,Arroios
+1666,3,74,T3,3,False,5,1.3,500.0,Lumiar
+3274,1,108,T2,7,,10,7.8,1000.0,Estrela
+2482,1,49,T5,8,,50,5.9,100.0,Parque das Nações
+1353,2,221,T2,2,,50,9.6,100.0,Arroios
+4646,0,152,Studio,4,True,50,12.0,100.0,Santo António
+4236,4,96,T4,7,True,20,4.6,1000.0,São Domingos de Benfica
+4269,3,112,T4,2,False,10,8.6,500.0,Ajuda
+1074,1,32,Studio,6,,,10.8,1500.0,Belém
+3761,0,211,T4,7,True,,2.4,1500.0,Lumiar
+1648,2,235,T1,9,True,,12.3,1000.0,Misericórdia
+2215,5,93,T4,2,False,50,9.3,100.0,São Domingos de Benfica
+4354,1,69,T4,1,True,50,14.3,1500.0,Santa Maria Maior
+2991,2,88,Studio,9,True,10,5.4,1000.0,Arroios
+3160,3,212,T3,6,False,5,2.1,500.0,Misericórdia
+3624,4,91,T4,8,False,50,7.8,300.0,Santa Maria Maior
+3551,1,161,T5,0,False,,1.7,1500.0,Olivais
+504,1,89,T4,2,True,5,14.6,300.0,Lumiar
+1376,3,145,T3,4,False,50,1.1,100.0,Alvalade
+1491,5,104,Studio,2,False,30,11.4,1500.0,Estrela
+4642,0,151,T3,0,False,20,8.1,1000.0,Misericórdia
+4864,4,136,Studio,6,False,50,5.8,500.0,Benfica
+4965,1,125,T1,6,True,30,1.5,1500.0,Santo António
+1135,4,120,Studio,9,True,10,9.5,1500.0,Arroios
+2193,1,187,T1,7,True,30,9.0,1500.0,Benfica
+2182,4,159,T1,4,True,10,4.6,1500.0,Misericórdia
+619,2,91,Studio,9,False,50,13.7,1000.0,Arroios
+1330,1,78,T5,4,,10,4.9,1000.0,Alvalade
+4175,4,166,T2,4,False,30,7.0,500.0,Belém
+1869,0,121,Studio,0,False,20,8.4,1000.0,Belém
+1240,2,188,T4,9,True,5,2.0,1000.0,Olivais
+616,2,153,T5,4,False,5,14.0,100.0,Ajuda
+3338,0,90,T5,5,True,20,5.9,100.0,Belém
+1650,4,236,T4,0,True,,1.7,300.0,Ajuda
+2431,3,77,T2,6,True,5,6.1,500.0,Arroios
+1512,0,182,T5,0,False,50,9.2,100.0,Belém
+2164,4,193,T1,1,,,7.9,500.0,Avenidas Novas
+1581,0,165,T2,1,True,50,10.6,500.0,Misericórdia
+1012,0,230,T4,4,True,30,1.3,1500.0,Alvalade
+3349,1,87,T2,9,False,30,4.6,500.0,Misericórdia
+1059,4,130,Studio,6,True,,12.4,500.0,Misericórdia
+4172,3,141,T2,0,,,1.7,500.0,Ajuda
+3843,1,202,T1,9,False,,12.9,500.0,Avenidas Novas
+4570,0,91,Studio,0,,,1.8,1500.0,Parque das Nações
+1970,5,68,T3,0,False,10,12.6,300.0,Parque das Nações
+1080,0,87,T4,5,False,,5.7,300.0,Santo António
+2794,0,238,T4,1,False,,9.4,500.0,Santo António
+3647,4,128,T2,0,False,30,2.7,300.0,Estrela
+4749,4,240,T5,5,False,50,1.5,1500.0,São Domingos de Benfica
+2179,1,221,Studio,1,True,30,3.6,500.0,São Domingos de Benfica
+4006,3,73,T3,5,False,5,2.4,1500.0,Belém
+3244,1,58,Studio,9,False,10,5.0,300.0,São Domingos de Benfica
+3856,2,88,T4,7,,10,8.0,500.0,Alvalade
+4545,0,100,Studio,1,False,50,9.0,1500.0,Avenidas Novas
+1743,5,121,T3,8,False,,12.0,1000.0,Alvalade
+3618,0,38,T5,7,True,30,10.0,1000.0,Benfica
+2641,0,156,T2,9,False,5,9.3,1500.0,Santo António
+3559,1,249,T1,0,False,30,6.5,1500.0,Misericórdia
+3459,5,163,Studio,6,,,7.4,100.0,Alvalade
+2765,5,186,T1,9,,,6.5,100.0,Arroios
+2979,5,215,T4,5,True,20,12.7,500.0,Lumiar
+2135,1,174,T2,5,,30,3.8,500.0,Misericórdia
+2257,0,173,T2,5,True,50,0.6,500.0,Santo António
+4952,1,244,Studio,5,True,30,9.9,500.0,Avenidas Novas
+2570,4,160,T5,9,False,10,3.4,300.0,Ajuda
+3349,4,50,T2,6,True,5,13.4,1000.0,Santa Maria Maior
+3751,1,93,Studio,2,False,50,13.0,300.0,Santo António
+4230,5,119,Studio,5,True,20,1.6,500.0,São Domingos de Benfica
+2989,0,65,T1,2,True,5,2.0,1500.0,Misericórdia
+2131,1,243,T2,6,False,5,7.7,100.0,Alvalade
+3316,1,91,Studio,6,False,10,9.3,500.0,Olivais
+1515,1,199,T1,7,,10,4.5,1500.0,Santo António
+1848,2,105,T3,1,False,10,10.9,500.0,Arroios
+3587,4,199,T1,8,False,50,9.1,1500.0,Avenidas Novas
+3339,5,218,T1,4,True,30,5.2,100.0,São Domingos de Benfica
+835,3,42,Studio,8,True,5,0.9,1500.0,Arroios
+1395,5,40,T4,9,True,30,11.4,500.0,Belém
+4046,3,83,T4,4,False,30,3.6,500.0,Santo António
+1351,2,45,T5,6,False,10,12.6,100.0,Parque das Nações
+2187,1,37,T4,8,False,30,6.6,1500.0,Ajuda
+2431,2,133,T1,3,False,5,8.9,500.0,Belém
+4246,2,88,T5,1,False,5,13.2,500.0,Estrela
+2927,0,86,Studio,8,True,,13.0,1000.0,Lumiar
+2068,4,69,T2,1,True,20,5.9,500.0,Benfica
+4500,3,216,T1,2,,50,3.5,300.0,Arroios
+3238,1,159,T1,9,False,30,11.7,100.0,Ajuda
+3998,3,123,T5,1,,50,6.8,100.0,Parque das Nações
+4413,5,233,Studio,2,True,50,3.3,100.0,Santa Maria Maior
+1566,3,167,T3,5,,50,13.6,1500.0,Ajuda
+4880,5,73,T1,2,True,,3.4,500.0,Avenidas Novas
+2944,4,168,T3,9,True,50,0.9,1500.0,Benfica
+4607,5,236,T3,7,,,0.8,300.0,Santo António
+3873,3,109,T4,5,True,5,9.5,500.0,Santa Maria Maior
+4469,3,110,Studio,6,False,30,10.1,500.0,Santo António
+3046,5,247,T3,0,True,,5.0,1500.0,Benfica
+1253,2,31,Studio,2,False,20,5.1,500.0,Belém
+2582,4,207,T4,2,,50,5.4,500.0,Misericórdia
+3274,0,169,Studio,1,True,20,10.4,500.0,Estrela
+3396,1,144,T1,6,False,5,1.3,500.0,Estrela
+4685,3,119,T3,8,True,5,14.0,500.0,Alvalade
+1275,1,52,Studio,3,False,10,3.7,1500.0,Estrela
+2125,0,175,T2,4,True,50,15.0,1500.0,Ajuda
+3569,1,91,Studio,2,True,10,3.0,300.0,São Domingos de Benfica
+917,0,142,T3,8,True,20,11.7,1000.0,Estrela
+614,5,157,T4,3,True,30,3.7,100.0,Parque das Nações
+1116,2,91,T4,4,,10,1.7,1500.0,São Domingos de Benfica
+4474,3,67,T3,0,True,5,13.2,1500.0,Santa Maria Maior
+3767,0,224,T1,1,True,50,13.0,500.0,São Domingos de Benfica
+1325,1,195,T1,8,False,20,6.4,1000.0,Estrela
+2016,3,224,T4,1,True,,10.7,1500.0,Arroios
+3646,2,90,T4,4,False,5,8.6,500.0,Alvalade
+912,5,158,T3,7,,,12.9,1000.0,Santa Maria Maior
+1228,3,202,T1,2,False,30,5.1,100.0,Ajuda
+3848,0,185,T4,5,,50,8.1,500.0,Benfica
+3308,2,178,T1,3,False,30,7.5,500.0,Belém
+1175,1,151,T4,6,True,30,5.6,300.0,Lumiar
+3965,2,139,Studio,9,False,50,13.4,500.0,Belém
+3004,2,42,T2,2,False,50,2.9,100.0,Misericórdia
+3467,4,184,T5,5,False,,2.7,500.0,Lumiar
+3286,2,129,Studio,9,,30,8.9,1000.0,Parque das Nações
+1622,2,164,T5,8,False,20,10.0,1000.0,Olivais
+4579,3,51,T4,9,,,3.3,100.0,Alvalade
+2071,1,103,T2,0,False,50,6.2,1000.0,Benfica
+2643,3,210,T2,2,False,5,14.2,500.0,São Domingos de Benfica
+2187,3,236,T4,1,False,,4.1,300.0,Belém
+4632,0,236,T4,7,True,10,10.2,500.0,Estrela
+4351,3,161,T1,6,,20,11.2,300.0,Alvalade
+3940,4,52,T4,1,False,,7.0,1000.0,Estrela
+4266,4,148,T3,5,True,50,14.1,500.0,Alvalade
+2826,0,99,T4,2,True,50,11.2,1000.0,Avenidas Novas
+3414,5,245,T3,7,False,20,7.1,300.0,Avenidas Novas
+4452,1,113,T4,9,True,10,8.8,1000.0,Alvalade
+1095,1,130,T1,2,True,,10.5,1500.0,Misericórdia
+1228,3,113,T3,9,False,,9.1,500.0,Arroios
+1865,3,233,Studio,8,True,30,13.2,500.0,Parque das Nações
+4992,5,190,T3,0,False,5,5.7,1500.0,São Domingos de Benfica
+1198,3,57,T1,4,True,50,4.8,1000.0,Avenidas Novas
+895,1,165,T5,2,True,,3.6,1000.0,Estrela
+4671,2,30,T3,5,False,,1.0,500.0,Avenidas Novas
+4860,4,194,T4,9,False,,1.1,1000.0,Estrela
+3002,2,92,T4,1,True,10,13.1,500.0,Estrela
+2319,2,51,T5,8,True,5,10.3,500.0,Misericórdia
+1217,1,99,T1,5,False,,10.1,300.0,Belém
+3282,2,154,T2,6,True,20,9.4,500.0,Ajuda
+4077,5,178,T4,4,True,50,12.8,500.0,Estrela
+643,0,125,Studio,8,True,30,7.5,1500.0,Belém
+3640,3,192,T1,0,,20,13.1,1000.0,Arroios
+4991,0,108,T3,4,False,50,5.7,500.0,Estrela
+3438,4,34,T3,9,False,10,13.9,300.0,Parque das Nações
+4136,3,89,Studio,5,False,5,10.6,100.0,Benfica
+3722,2,149,T4,6,False,5,4.2,500.0,Santa Maria Maior
+1667,4,75,T1,3,False,50,8.7,100.0,Olivais
+3116,3,207,Studio,0,False,20,8.2,1000.0,Santa Maria Maior
+1562,5,205,T4,7,True,30,2.5,500.0,Estrela
+2656,5,163,T1,9,False,10,9.1,100.0,Avenidas Novas
+3482,5,246,T3,3,False,50,5.1,1500.0,Ajuda
+3794,5,85,T1,2,False,10,1.3,100.0,Santa Maria Maior
+1656,2,139,T5,6,True,5,14.3,1500.0,Benfica
+1232,0,216,T2,1,True,,9.8,300.0,Parque das Nações
+4830,3,186,T1,7,False,,13.2,1000.0,Misericórdia
+1453,2,228,T2,5,False,30,10.3,500.0,Olivais
+3039,5,133,T1,6,,10,5.7,100.0,Misericórdia
+3824,0,106,T2,4,True,50,7.9,500.0,Ajuda
+3801,4,175,T5,8,False,30,10.3,1000.0,Olivais
+2042,4,31,T3,4,False,20,14.4,100.0,Ajuda
+1691,4,37,T4,4,,,4.2,500.0,Misericórdia
+3493,5,104,T2,2,False,50,13.2,500.0,Parque das Nações
+3181,4,211,T5,0,False,10,13.9,500.0,Olivais
+1717,1,154,T2,1,False,30,10.2,500.0,Lumiar
+2040,3,67,T3,7,False,50,14.0,500.0,Belém
+3736,3,205,T2,0,,30,6.3,500.0,Parque das Nações
+2886,5,56,T5,6,True,30,14.3,500.0,Olivais
+4219,1,49,T5,4,True,30,10.7,100.0,Ajuda
+1888,2,169,Studio,2,,10,1.1,300.0,Ajuda
+2356,2,72,T3,6,False,50,13.6,500.0,Arroios
+1865,4,218,Studio,8,False,5,7.5,1500.0,Parque das Nações
+999,0,60,T3,1,False,5,7.2,1500.0,Ajuda
+2180,2,120,T2,7,True,10,8.7,1500.0,Alvalade
+1010,0,90,T5,8,False,10,2.7,300.0,Belém
+4812,3,231,Studio,2,False,,7.3,500.0,Misericórdia
+1824,0,224,T2,1,True,30,12.6,500.0,Benfica
+1655,3,138,T5,6,True,50,0.7,1000.0,Arroios
+2327,1,120,T3,4,,50,4.5,1500.0,Ajuda
+3641,1,192,T5,4,True,20,0.5,1500.0,Alvalade
+3986,5,124,T2,9,,20,6.5,500.0,Arroios
+2310,5,172,Studio,4,True,5,11.1,1500.0,Alvalade
+3423,4,173,Studio,3,False,20,12.1,500.0,Arroios
+2714,2,42,T5,4,,20,14.2,500.0,Ajuda
+4686,4,142,T2,3,False,5,9.3,500.0,Alvalade
+1213,3,64,T1,5,False,,4.2,500.0,Santa Maria Maior
+4102,4,232,T3,3,False,5,13.9,100.0,Olivais
+4634,0,216,T3,1,True,20,11.7,100.0,Parque das Nações
+4022,3,178,T2,8,True,50,8.8,100.0,Benfica
+4768,5,211,T1,1,,20,10.6,100.0,Misericórdia
+1743,1,232,Studio,8,False,30,13.9,300.0,Benfica
+4209,5,187,T4,9,False,30,10.8,1000.0,Misericórdia
+1581,2,77,T4,5,True,30,5.8,1000.0,Lumiar
+955,3,64,T2,8,True,,10.8,500.0,Santo António
+1394,3,115,T1,8,True,10,1.1,1500.0,Belém
+1884,0,195,T1,2,False,30,6.1,100.0,Lumiar
+2458,2,188,T3,0,False,50,6.4,1000.0,Estrela
+3572,1,235,Studio,0,False,,2.9,1000.0,Ajuda
+2496,3,181,T5,2,,10,0.8,100.0,Olivais
+4785,3,143,T1,4,True,10,2.4,300.0,Santo António
+1004,0,206,T5,2,True,30,10.0,300.0,Parque das Nações
+1714,4,129,T4,8,True,20,12.1,1000.0,São Domingos de Benfica
+2031,1,189,T5,8,False,5,14.8,300.0,Olivais
+3940,5,212,Studio,2,True,20,5.5,500.0,Avenidas Novas
+1323,2,236,Studio,2,,20,9.2,100.0,Benfica
+1428,3,215,T5,4,True,10,14.1,1000.0,Misericórdia
+633,3,128,T2,1,,10,2.9,100.0,Lumiar
+2605,5,32,T1,5,False,,10.9,300.0,Olivais
+4127,1,237,T2,6,,,11.4,100.0,Lumiar
+2352,4,226,T5,8,False,10,1.8,300.0,Belém
+4675,3,114,T1,5,,50,13.0,300.0,Belém
+3433,1,154,T3,2,True,50,12.3,100.0,Santa Maria Maior
+3784,5,167,T2,4,False,5,1.0,300.0,Misericórdia
+4798,0,112,T2,3,,10,1.8,500.0,Estrela
+3311,4,54,T5,4,True,30,1.2,500.0,Olivais
+1750,2,97,T4,7,True,,5.4,100.0,Avenidas Novas
+4012,3,90,T5,7,False,10,7.9,500.0,Parque das Nações
+1756,1,58,T2,5,,50,8.2,100.0,Avenidas Novas
+3876,0,156,T1,0,False,10,4.4,300.0,Lumiar
+3986,2,48,T4,7,False,50,13.7,300.0,Lumiar
+4084,1,200,T5,7,True,10,5.8,1000.0,Belém
+1896,1,223,T5,1,True,30,1.2,500.0,Ajuda
+4137,2,103,T2,3,,5,4.9,1000.0,Misericórdia
+3830,0,90,T2,1,True,30,8.2,500.0,Lumiar
+3203,5,200,T3,3,False,50,6.4,300.0,Belém
+970,0,182,T5,9,,,4.5,1000.0,São Domingos de Benfica
+1853,4,49,T2,6,True,,2.4,300.0,Belém
+3283,3,77,Studio,8,False,20,12.4,100.0,Alvalade
+3331,2,240,T4,7,True,30,14.9,1000.0,Santa Maria Maior
+857,5,116,Studio,8,False,10,5.3,500.0,Lumiar
+3519,2,181,T4,7,True,5,6.0,1000.0,Alvalade
+1167,2,168,T5,1,False,10,9.5,300.0,Parque das Nações
+4968,0,139,T3,6,True,10,10.9,1500.0,Parque das Nações
+1645,3,212,T2,1,False,30,6.2,1500.0,Belém
+4685,4,57,T2,1,False,5,13.6,500.0,Santa Maria Maior
+4219,1,226,T2,3,True,20,8.6,300.0,Avenidas Novas
+3245,1,220,T5,0,False,10,7.0,100.0,Ajuda
+1039,2,88,T4,4,True,5,9.9,1000.0,Santa Maria Maior
+3279,3,162,T2,5,False,20,14.3,1500.0,Ajuda
+4636,5,80,Studio,8,True,10,12.0,100.0,Santo António
+4275,0,178,T2,9,False,5,1.1,300.0,Alvalade
+3008,3,41,T5,7,True,30,5.3,100.0,Belém
+3279,3,79,T3,1,False,,7.3,300.0,Avenidas Novas
+1424,0,161,Studio,0,True,,5.1,500.0,Alvalade
+3456,2,142,T2,1,False,10,10.7,1000.0,Avenidas Novas
+2081,3,199,T2,6,True,10,12.5,100.0,São Domingos de Benfica
+3824,1,241,T1,3,,5,11.1,1000.0,São Domingos de Benfica
+4985,0,195,T4,9,,,14.8,100.0,Misericórdia
+755,5,182,Studio,4,True,10,4.5,300.0,Alvalade
+2338,4,43,T1,6,False,20,13.2,300.0,Santo António
+2444,2,232,T3,2,True,10,11.6,100.0,Avenidas Novas
+509,0,61,T4,9,True,,5.8,500.0,Estrela
+3371,4,168,Studio,1,False,50,11.1,300.0,Lumiar
+1297,4,218,T2,6,False,,2.0,500.0,Parque das Nações
+1515,5,175,Studio,4,False,20,11.9,500.0,Avenidas Novas
+2324,3,184,T2,0,True,5,8.2,1000.0,Santo António
+4969,5,84,T4,0,True,20,4.7,500.0,Arroios
+3636,3,211,T2,8,True,50,10.0,500.0,Belém
+2693,3,239,T3,4,False,50,9.8,500.0,Santa Maria Maior
+723,0,149,T5,0,False,10,3.5,500.0,Avenidas Novas
+4658,0,244,T2,6,False,10,0.9,1500.0,Ajuda
+4425,2,104,T3,8,True,,6.8,1500.0,São Domingos de Benfica
+4500,3,50,T5,0,True,30,8.8,500.0,São Domingos de Benfica
+2133,4,201,T4,9,True,20,13.2,1500.0,Olivais
+2652,1,162,T4,3,True,,14.0,500.0,Avenidas Novas
+1010,2,116,Studio,2,True,30,8.2,1500.0,Lumiar
+884,0,198,T3,4,,,11.4,300.0,Arroios
+904,5,88,T3,6,,50,6.9,500.0,Santa Maria Maior
+2500,2,118,T1,7,False,10,11.3,1000.0,Santo António
+3256,2,211,T1,1,False,10,3.5,1000.0,Estrela
+2168,2,231,T5,6,True,,5.9,500.0,Olivais
+1960,2,179,T5,0,,10,9.7,500.0,Santo António
+4136,1,112,T1,6,True,5,0.8,1000.0,Ajuda
+3224,5,94,T5,7,,,11.0,500.0,Avenidas Novas
+4678,5,93,T2,1,False,50,12.6,1000.0,Santa Maria Maior
+2548,5,100,T1,8,True,,6.3,100.0,Estrela
+4646,3,33,T3,0,,,7.0,100.0,Avenidas Novas
+1216,4,222,T2,5,True,10,12.8,500.0,Ajuda
+2323,5,172,T5,0,False,50,11.7,1000.0,Ajuda
+2581,2,133,T4,2,False,,4.7,300.0,Belém
+3919,2,233,Studio,5,True,10,5.2,500.0,Olivais
+2074,5,179,T1,2,False,20,10.3,1000.0,Santa Maria Maior
+749,5,243,T4,7,False,50,8.7,500.0,São Domingos de Benfica
+1173,2,204,T5,4,False,30,2.9,500.0,Misericórdia
+2665,3,238,T3,1,True,5,5.0,1500.0,Alvalade
+1270,0,122,Studio,3,,30,13.5,500.0,São Domingos de Benfica
+4462,0,203,T4,8,True,50,10.5,1000.0,Santo António
+4863,5,171,Studio,3,True,,14.8,300.0,Santa Maria Maior
+2484,1,207,T1,9,True,10,11.6,1500.0,Alvalade
+1577,5,177,T5,9,True,50,14.2,500.0,Lumiar
+735,5,207,T3,7,True,5,3.6,1000.0,Ajuda
+888,0,141,T5,4,,50,11.7,100.0,Avenidas Novas
+3537,2,190,Studio,9,True,10,0.8,1000.0,Santa Maria Maior
+2348,5,148,T4,0,True,30,10.2,100.0,Lumiar
+3314,2,88,T1,6,True,20,7.3,100.0,Olivais
+3874,2,72,T1,2,False,30,5.5,500.0,Ajuda
+3778,1,236,T5,9,,10,13.0,1000.0,Ajuda
+1752,2,41,T4,7,True,10,12.9,1000.0,Arroios
+4481,0,69,T4,2,True,5,0.8,100.0,Parque das Nações
+2622,3,147,Studio,0,True,50,9.3,500.0,Alvalade
+2650,3,49,T5,4,True,50,5.8,1500.0,Olivais
+1829,4,195,T5,1,True,30,6.5,300.0,Estrela
+1858,5,160,T2,3,False,20,12.6,1000.0,Estrela
+2982,0,185,T5,0,True,20,5.0,1500.0,Misericórdia
+2517,2,213,T1,8,False,5,14.2,1500.0,Santa Maria Maior
+1831,3,119,Studio,5,True,10,3.1,500.0,Benfica
+4844,0,123,T4,7,,5,10.1,1500.0,Olivais
+4761,3,42,T5,3,,50,10.2,1000.0,Santa Maria Maior
+1858,2,234,Studio,8,False,,4.2,500.0,Benfica
+3677,3,95,T5,1,True,,5.2,500.0,Arroios
+2628,5,66,T4,8,True,,12.6,1500.0,Estrela
+2680,5,206,T3,4,False,10,11.5,1000.0,Olivais
+637,4,95,T4,5,False,5,5.3,1000.0,Ajuda
+3972,4,65,T4,2,False,30,8.2,100.0,Parque das Nações
+3332,3,211,T4,3,,50,1.4,500.0,Belém
+4079,0,55,T5,5,,,3.5,300.0,Parque das Nações
+3531,5,104,T2,6,True,20,7.5,100.0,Santa Maria Maior
+4664,0,229,T4,0,False,5,1.7,300.0,Misericórdia
+3093,0,137,T1,6,True,50,12.7,1000.0,Estrela
+4800,3,197,T1,0,True,50,10.9,500.0,São Domingos de Benfica
+4318,0,72,Studio,4,False,20,14.2,100.0,Lumiar
+4638,5,179,T2,5,True,20,10.6,1500.0,Lumiar
+4323,2,177,Studio,1,,20,14.1,1500.0,Belém
+4542,4,37,T1,9,True,,8.5,300.0,Santo António
+2406,2,58,T1,8,False,,9.2,1000.0,Estrela
+1260,0,69,T3,9,False,5,14.7,500.0,Santo António
+3945,2,247,T4,5,False,20,9.8,300.0,Olivais
+1399,5,187,T1,6,True,30,0.9,500.0,Ajuda
+4955,5,238,T5,9,,50,11.0,500.0,Misericórdia
+3447,0,157,T5,7,False,20,13.6,500.0,Lumiar
+2219,3,113,Studio,9,False,50,12.0,1500.0,Belém
+780,2,145,Studio,0,True,10,9.0,100.0,Parque das Nações
+3766,3,212,T4,7,False,10,10.2,100.0,São Domingos de Benfica
+2387,3,173,T4,3,,20,14.9,100.0,Ajuda
+3766,1,203,T3,9,False,50,1.8,500.0,Avenidas Novas
+1166,0,91,T2,7,,10,10.2,1500.0,Lumiar
+4688,4,36,Studio,5,False,20,4.6,500.0,Parque das Nações
+1171,5,237,T4,8,True,50,9.8,1000.0,Olivais
+2469,5,74,Studio,3,True,20,9.3,1500.0,Santo António
+4656,0,216,T4,1,True,,2.7,1500.0,Parque das Nações
+3622,4,213,T1,1,False,50,3.5,500.0,Ajuda
+4400,5,205,Studio,4,False,10,9.5,500.0,Parque das Nações
+1023,0,184,T1,9,True,20,2.4,100.0,Olivais
+2893,5,210,Studio,8,False,10,4.3,1500.0,São Domingos de Benfica
+3617,3,244,T2,2,False,20,12.6,100.0,Misericórdia
+3093,2,117,T3,7,False,5,5.2,1000.0,Santo António
+2468,2,102,T5,3,True,10,7.6,500.0,Ajuda
+2253,5,192,T5,5,True,10,14.1,100.0,Misericórdia
+2796,1,208,T5,9,True,30,3.8,500.0,Santo António
+2761,4,241,T1,5,True,,6.1,300.0,Belém
+2786,4,66,T4,2,True,10,9.3,500.0,Estrela
+4702,4,238,T5,4,True,50,11.5,1000.0,Santo António
+3378,3,148,T2,2,False,20,13.6,500.0,Parque das Nações
+4643,4,86,T5,0,True,5,13.8,500.0,Arroios
+4144,2,37,Studio,6,,50,11.8,500.0,Misericórdia
+4932,3,236,T1,3,True,50,3.8,100.0,São Domingos de Benfica
+2555,0,124,Studio,6,True,50,0.9,500.0,Olivais
+1776,4,146,Studio,2,True,50,6.1,1000.0,Lumiar
+3266,4,139,Studio,4,True,5,2.6,300.0,Misericórdia
+802,0,49,T3,4,,30,10.8,100.0,Lumiar
+1138,4,153,T3,1,True,,10.1,100.0,Santa Maria Maior
+555,0,82,T4,9,,10,1.1,1000.0,Parque das Nações
+1025,3,148,T1,1,,50,12.6,1000.0,Belém
+4623,2,41,T2,3,False,10,4.1,500.0,Alvalade
+2625,0,206,T2,3,False,10,6.8,300.0,Ajuda
+3787,1,46,T2,3,False,50,10.2,500.0,Lumiar
+864,0,93,Studio,5,True,30,6.7,500.0,Santa Maria Maior
+2146,4,71,T3,1,False,10,6.9,500.0,Santa Maria Maior
+1418,3,123,T1,5,True,20,1.5,500.0,Lumiar
+3297,5,186,Studio,6,True,10,6.3,500.0,Santa Maria Maior
+2031,3,176,T3,9,False,,11.6,500.0,São Domingos de Benfica
+3845,5,40,T3,2,False,50,13.8,100.0,Ajuda
+2406,0,127,T5,7,,5,6.5,1000.0,Alvalade
+3586,2,207,T5,1,True,10,6.6,100.0,Parque das Nações
+2575,1,100,T1,7,,30,10.7,300.0,Olivais
+1213,3,137,T1,4,True,20,14.2,500.0,Santo António
+1562,4,87,T1,1,True,20,4.4,300.0,Estrela
+2476,5,63,Studio,6,True,5,6.9,1000.0,São Domingos de Benfica
+1796,4,49,T4,1,False,,12.0,1000.0,São Domingos de Benfica
+625,2,79,T1,5,True,5,9.3,1500.0,Santo António
+4096,5,131,T5,9,False,,2.1,300.0,Lumiar
+3783,3,245,T4,2,,10,9.6,100.0,Alvalade
+2103,0,167,Studio,8,False,50,3.2,300.0,Alvalade
+566,4,189,T4,2,False,30,7.9,500.0,Belém
+732,2,81,T2,2,,20,8.2,1000.0,Lumiar
+2656,3,44,T4,4,False,5,13.2,1000.0,Avenidas Novas
+1669,3,113,T1,6,False,30,7.2,300.0,Santa Maria Maior
+2658,3,160,Studio,7,True,,4.6,300.0,Santa Maria Maior
+4706,3,66,T1,6,,50,3.8,500.0,Misericórdia
+1993,5,155,T5,8,False,20,13.2,300.0,Parque das Nações
+4507,3,69,T2,4,True,20,3.0,500.0,Olivais
+2972,4,101,T5,9,True,,6.7,500.0,Alvalade
+3160,2,69,T1,2,,50,3.2,500.0,Belém
+3239,5,85,T1,5,True,20,11.7,100.0,Belém
+2261,3,180,T1,4,,50,7.4,300.0,Ajuda
+4014,1,133,T3,3,True,20,5.6,100.0,Lumiar
+2475,1,168,T2,1,False,10,5.7,1500.0,Alvalade
+2862,2,139,T1,6,True,,12.9,500.0,Olivais
+1376,0,221,T1,4,False,50,8.5,1000.0,São Domingos de Benfica
+4312,0,165,T5,3,,30,10.9,500.0,Misericórdia
+3948,5,122,T5,7,False,10,13.5,1500.0,Arroios
+1812,5,123,T1,8,False,30,13.6,1000.0,Arroios
+1960,5,85,Studio,8,True,,5.3,1500.0,Misericórdia
+3209,0,89,T3,2,True,20,14.3,100.0,Santa Maria Maior
+2824,1,167,T5,2,True,30,0.9,100.0,Avenidas Novas
+2233,0,68,Studio,4,False,10,6.0,500.0,Alvalade
+2105,4,57,T3,4,True,50,13.5,500.0,São Domingos de Benfica
+3063,3,78,T1,9,True,5,4.5,500.0,Lumiar
+3921,5,193,T2,1,False,30,4.5,1000.0,Olivais
+4017,1,154,T4,0,False,5,4.9,1500.0,Santo António
+2897,2,42,T4,7,False,,9.4,500.0,Ajuda
+4235,2,65,T1,2,True,30,6.9,300.0,Lumiar
+3370,3,130,T5,0,True,30,11.0,300.0,Estrela
+1660,1,55,Studio,0,,50,13.5,500.0,Lumiar
+742,0,115,T2,1,True,20,10.3,500.0,Lumiar
+3090,0,33,T3,5,,10,3.5,1000.0,Parque das Nações
+1563,4,111,T1,5,,10,14.0,300.0,Alvalade
+4824,4,221,T2,2,False,10,4.3,500.0,Avenidas Novas
+3095,0,195,T2,3,True,,2.7,500.0,Ajuda
+1419,2,156,T5,1,,20,1.8,500.0,Parque das Nações
+505,5,117,T3,1,False,5,8.7,1000.0,Alvalade
+967,2,156,T2,6,False,10,2.1,300.0,Benfica
+4670,4,149,T5,0,True,5,2.5,300.0,Ajuda
+503,3,244,Studio,6,True,20,4.9,300.0,Alvalade
+1145,0,51,T5,0,True,,4.6,100.0,Arroios
+617,4,159,Studio,5,False,20,9.3,300.0,Parque das Nações
+3428,4,60,Studio,2,False,50,12.3,1500.0,Benfica
+3051,5,148,T2,7,True,10,11.5,100.0,Santa Maria Maior
+4789,0,40,T5,5,False,,4.3,500.0,Ajuda
+1346,5,249,Studio,1,True,50,4.1,100.0,Estrela
+3262,0,75,T3,7,False,10,14.5,100.0,Olivais
+1641,5,125,T2,4,,20,0.6,100.0,Estrela
+2310,2,219,T5,7,True,20,13.3,500.0,Arroios
+1223,3,226,T5,7,True,30,3.4,1500.0,Arroios
+724,3,221,T4,5,True,30,14.2,1000.0,São Domingos de Benfica
+4708,0,39,T5,1,False,20,5.5,300.0,São Domingos de Benfica
+2548,1,197,T2,7,False,20,6.9,100.0,Misericórdia
+4915,4,157,T3,5,,5,10.8,1000.0,Santa Maria Maior
+2073,4,181,T5,5,True,5,9.0,500.0,Misericórdia
+2328,0,128,T4,7,,50,5.1,1000.0,Estrela
+2417,5,201,T2,0,True,30,8.5,100.0,Parque das Nações
+4734,1,141,Studio,1,False,30,11.1,500.0,Lumiar
+2526,2,89,T1,8,True,20,1.1,1500.0,Alvalade
+4244,5,219,T1,7,,20,0.7,1000.0,Santo António
+1401,5,116,Studio,6,False,50,7.1,100.0,Olivais
+2539,0,174,T5,6,False,,2.4,100.0,Benfica
+509,0,94,T1,4,,,10.1,300.0,Olivais
+760,4,86,T1,1,True,,3.6,500.0,Arroios
+2173,0,212,Studio,5,True,30,6.8,300.0,Avenidas Novas
+2719,0,135,T5,9,,5,3.4,500.0,Misericórdia
+2560,0,210,T5,2,True,,8.5,1500.0,Lumiar
+4213,4,213,Studio,3,True,10,2.2,300.0,Santa Maria Maior
+2119,2,38,T5,9,False,50,0.8,1500.0,Avenidas Novas
+820,2,51,T5,1,False,,1.2,500.0,Belém
+1842,0,170,T2,1,True,10,14.3,500.0,Ajuda
+2876,4,118,T2,7,True,,2.6,500.0,Belém
+3332,2,205,Studio,7,True,5,10.8,500.0,Belém
+3324,5,47,T3,9,False,5,1.5,300.0,Parque das Nações
+2494,2,144,T1,5,,,2.1,500.0,Parque das Nações
+3458,2,233,T2,4,,10,7.9,1000.0,Misericórdia
+2538,4,197,T1,7,False,50,7.2,1000.0,São Domingos de Benfica
+3990,5,174,T4,3,True,10,14.3,1000.0,São Domingos de Benfica
+4177,4,172,Studio,3,,50,14.2,500.0,Belém
+1618,0,135,T3,4,False,,11.8,1000.0,Avenidas Novas
+2104,3,44,T4,0,True,50,9.2,1500.0,Benfica
+4527,2,236,T4,0,,20,7.1,100.0,Arroios
+735,3,92,T5,1,False,30,5.7,500.0,São Domingos de Benfica
+2469,4,196,T4,7,False,30,14.2,300.0,Belém
+4929,4,42,Studio,6,False,5,9.2,1500.0,Lumiar
+2408,4,110,T2,9,True,20,8.9,1000.0,Ajuda
+875,3,61,Studio,8,True,30,3.9,100.0,Avenidas Novas
+4030,4,166,T2,4,False,,1.2,300.0,Avenidas Novas
+3135,0,69,T4,1,True,50,14.2,1500.0,Alvalade
+2070,4,177,T4,6,False,50,5.0,300.0,São Domingos de Benfica
+3060,1,247,T3,7,False,10,6.9,500.0,Misericórdia
+3891,3,248,T2,6,False,10,2.2,500.0,Misericórdia
+3465,1,242,T4,6,False,50,12.6,1000.0,Estrela
+4143,4,111,T5,4,False,,0.9,1500.0,Lumiar
+4350,0,106,T1,1,,50,12.6,1500.0,Parque das Nações
+1372,2,237,T3,5,False,10,2.5,100.0,Santa Maria Maior
+1752,5,230,Studio,3,True,30,13.4,100.0,Arroios
+1814,5,220,T3,9,True,5,11.1,100.0,Benfica
+3398,4,105,T1,1,True,10,2.9,300.0,Santo António
+577,0,201,T2,8,True,,8.7,1000.0,Lumiar
+3121,3,67,Studio,6,True,30,5.0,300.0,Olivais
+4727,1,240,Studio,5,True,30,3.1,1000.0,Alvalade
+1100,1,217,T2,4,False,30,13.0,1500.0,Ajuda
+1565,1,100,T3,2,,20,6.4,300.0,Estrela
+2636,3,77,T4,9,True,20,6.3,300.0,Avenidas Novas
+2949,5,47,T3,9,False,30,3.0,300.0,Lumiar
+2843,0,173,T1,3,False,,6.1,500.0,Estrela
+2363,3,212,T5,2,True,50,13.1,500.0,Alvalade
+1818,1,68,T4,7,,,5.8,1000.0,Belém
+4097,4,225,T3,2,False,20,14.3,1000.0,Estrela
+4262,2,216,T5,6,True,10,14.2,300.0,Misericórdia
+2690,3,118,T5,6,False,20,2.6,500.0,Parque das Nações
+1492,3,91,T2,6,True,50,3.1,300.0,Avenidas Novas
+3212,0,170,T1,6,False,5,13.0,1000.0,Belém
+2692,0,138,T1,1,True,20,6.2,500.0,Lumiar
+1748,3,110,T1,9,,,0.6,500.0,Santa Maria Maior
+3554,1,163,T4,2,False,,4.5,1500.0,Ajuda
+4533,2,240,Studio,9,False,30,9.2,500.0,Misericórdia
+2497,0,106,T4,8,True,30,12.1,500.0,Alvalade
+4187,1,217,T3,2,False,30,2.4,500.0,Belém
+2651,4,119,T5,1,False,5,2.1,300.0,Misericórdia
+4518,0,43,T5,8,False,50,13.9,1500.0,Parque das Nações
+3610,1,124,Studio,9,False,10,11.4,1000.0,Belém
+2470,1,83,T3,8,False,,9.1,500.0,Arroios
+697,2,161,Studio,3,,,11.7,500.0,Arroios
+3126,2,68,T5,8,False,50,6.7,100.0,Belém
+1702,4,101,T4,2,,5,11.5,1000.0,São Domingos de Benfica
+2535,1,54,T1,6,,30,5.9,500.0,Belém
+977,5,106,T5,6,False,50,4.0,500.0,Arroios
+1754,1,189,T2,7,True,10,11.1,1000.0,Lumiar
+1422,2,216,T1,9,False,30,6.6,1500.0,Estrela
+919,5,220,T5,3,,10,14.7,500.0,Santa Maria Maior
+2704,0,195,T4,2,True,20,5.6,1000.0,Ajuda
+3097,0,149,Studio,2,False,10,13.9,500.0,Misericórdia
+1620,3,249,T1,4,,30,14.0,1500.0,Misericórdia
+3568,2,82,T4,0,True,20,4.0,1500.0,Alvalade
+1450,3,224,T3,9,False,30,12.1,300.0,Ajuda
+2836,5,185,T2,2,True,,6.8,100.0,Benfica
+2743,2,160,T1,5,True,30,13.8,1500.0,Arroios
+3145,4,237,Studio,2,False,20,7.0,1500.0,Santo António
+2357,1,179,T3,4,True,10,11.3,500.0,Santo António
+2365,4,125,T4,8,True,,7.3,1500.0,Benfica
+3412,5,195,T2,1,,5,3.8,1000.0,Santa Maria Maior
+3353,2,229,Studio,1,True,5,3.4,300.0,Parque das Nações
+3728,5,101,T4,5,,5,6.7,300.0,Ajuda
+4219,1,91,T4,5,,5,11.5,1000.0,Olivais
+3728,0,214,T1,7,True,50,9.3,500.0,Santa Maria Maior
+2871,0,35,T1,1,True,5,10.5,1500.0,Alvalade
+3391,5,235,Studio,8,False,20,4.6,100.0,Belém
+4256,3,61,T5,1,False,5,7.5,1500.0,Parque das Nações
+4725,2,128,T5,0,True,30,1.1,300.0,Estrela
+594,2,167,T4,9,False,5,12.4,100.0,Olivais
+3174,0,160,T1,1,True,10,14.9,500.0,Ajuda
+2455,4,216,T2,6,,20,6.4,500.0,Ajuda
+1293,1,105,T2,7,True,20,0.7,500.0,Santo António
+2334,4,206,T4,4,True,,3.0,1500.0,Benfica
+2616,4,88,T1,5,True,50,10.0,1500.0,Lumiar
+4606,5,60,Studio,0,,30,9.4,100.0,Avenidas Novas
+3825,0,122,Studio,5,False,20,11.9,100.0,Benfica
+3419,0,98,Studio,7,,10,4.2,500.0,Santa Maria Maior
+3097,0,219,T2,2,True,5,11.6,1500.0,Misericórdia
+3705,5,81,T1,0,True,20,10.5,300.0,Benfica
+1314,3,118,T1,3,True,10,5.2,500.0,Lumiar
+845,4,156,T2,0,False,5,8.4,500.0,Estrela
+2849,5,198,Studio,7,False,50,2.6,100.0,Avenidas Novas
+862,2,60,Studio,4,False,20,7.1,300.0,Parque das Nações
+2943,1,242,T4,0,True,20,13.3,1500.0,São Domingos de Benfica
+2765,3,113,T5,7,,10,6.6,1000.0,Arroios
+2688,2,156,T3,8,True,,12.7,100.0,Ajuda
+3505,4,179,T5,9,,30,9.1,500.0,Santa Maria Maior
+3781,0,161,T1,1,True,50,3.3,1000.0,Santa Maria Maior
+1484,4,42,T1,8,False,30,8.9,300.0,Belém
+2139,5,74,T1,7,True,20,7.8,500.0,Benfica
+1327,1,156,T5,6,False,30,6.3,300.0,Olivais
+3230,5,199,T3,2,False,5,2.2,500.0,Estrela
+4031,3,143,T4,1,False,50,6.5,300.0,Alvalade
+4951,3,206,T5,6,False,30,1.6,100.0,Ajuda
+3435,1,49,T3,4,False,5,1.9,100.0,Lumiar
+4376,2,234,Studio,5,False,10,6.5,500.0,Misericórdia
+626,2,110,Studio,3,,30,4.9,1000.0,Lumiar
+3677,3,211,T1,1,True,50,13.9,300.0,Benfica
+3556,3,193,T2,8,False,5,5.9,300.0,Parque das Nações
+1103,0,158,T1,2,False,30,11.5,1000.0,Misericórdia
+3949,2,172,T2,6,True,10,8.2,1500.0,Olivais
+4646,1,234,T3,7,False,30,10.7,500.0,Lumiar
+4033,2,46,Studio,1,True,5,4.3,300.0,Santa Maria Maior
+3867,0,181,T5,5,True,30,14.2,500.0,Olivais
+3868,5,87,T2,7,True,50,8.2,300.0,Alvalade
+4297,3,101,T3,6,True,20,12.6,300.0,Avenidas Novas
+2292,3,248,Studio,2,False,5,5.8,1500.0,Olivais
+3361,0,138,T5,0,False,5,2.0,100.0,Ajuda
+3976,1,52,T2,5,,5,10.3,500.0,Estrela
+3917,3,203,T1,7,False,5,0.6,1000.0,Misericórdia
+2145,4,101,T1,5,True,30,7.4,500.0,Ajuda
+1705,3,37,T1,4,,50,3.3,1500.0,Belém
+3530,4,88,T3,7,,10,9.6,500.0,Lumiar
+3372,0,247,T1,1,False,50,14.7,500.0,Santo António
+3572,0,140,T4,0,False,5,7.2,1500.0,Lumiar
+2354,3,216,Studio,0,,,12.4,1500.0,Belém
+4521,2,42,T3,3,False,30,7.9,100.0,Olivais
+3208,4,196,T5,5,,,7.7,500.0,São Domingos de Benfica
+4002,1,185,T1,8,True,30,14.0,500.0,Ajuda
+1832,3,246,Studio,0,True,5,13.4,500.0,Santo António
+701,1,218,T2,0,False,30,11.9,1000.0,Misericórdia
+4007,3,45,T1,4,False,5,4.8,500.0,Misericórdia
+4712,2,148,Studio,9,,50,8.4,300.0,São Domingos de Benfica
+1074,2,31,T4,4,,20,3.7,300.0,Belém
+1036,2,239,T2,4,True,30,6.9,100.0,Lumiar
+2125,5,174,T4,9,True,5,7.5,100.0,Belém
+2622,2,59,T5,5,,,12.6,500.0,São Domingos de Benfica
+885,0,132,Studio,7,False,5,13.5,1000.0,Santo António
+3781,0,42,T4,2,True,,6.5,1000.0,Alvalade
+974,5,125,T5,8,False,30,0.8,1500.0,Alvalade
+917,4,123,Studio,0,False,10,13.0,100.0,Avenidas Novas
+4100,1,111,Studio,3,False,,3.0,500.0,Alvalade
+1454,3,42,T4,8,False,5,9.5,300.0,Arroios
+1705,3,200,Studio,7,True,30,0.9,500.0,Estrela
+4620,5,242,T1,9,,5,6.3,300.0,Santo António
+2490,0,123,Studio,8,False,10,14.8,500.0,Parque das Nações
+4072,3,178,T3,0,False,20,2.0,300.0,Santa Maria Maior
+4880,0,141,T5,8,True,10,6.6,500.0,Benfica
+4658,4,84,Studio,2,False,50,5.0,500.0,Santa Maria Maior
+3213,1,110,T3,9,True,30,13.6,1000.0,Arroios
+2703,4,197,Studio,8,True,10,13.1,1000.0,Misericórdia
+3620,5,240,Studio,0,False,20,3.9,100.0,Olivais
+1466,2,145,T4,0,True,5,1.7,500.0,Lumiar
+3932,2,172,T1,8,False,30,9.6,500.0,Santo António
+1188,2,230,T5,5,True,,5.4,300.0,Avenidas Novas
+4743,4,209,T1,3,False,10,10.2,100.0,Santo António
+4201,3,231,T2,6,True,20,1.0,1500.0,Olivais
+841,1,137,T4,4,True,10,2.4,1500.0,Belém
+2224,2,82,T4,9,True,50,10.5,300.0,São Domingos de Benfica
+4922,5,244,T1,6,,30,3.6,300.0,Lumiar
+2292,5,157,T4,7,,5,12.9,300.0,Benfica
+2259,2,209,T1,7,True,20,1.3,1000.0,Benfica
+3712,2,187,T4,0,False,10,3.6,300.0,Ajuda
+1489,1,190,Studio,7,False,30,15.0,1500.0,Olivais
+2762,2,86,T1,5,,10,6.8,300.0,São Domingos de Benfica
+2982,1,81,T1,3,True,30,10.7,500.0,Parque das Nações
+1451,5,166,T3,7,False,50,3.1,500.0,Benfica
+1222,2,211,T4,2,True,10,9.3,1500.0,Estrela
+3889,4,140,T4,3,True,50,11.0,500.0,Ajuda
+2579,4,30,T1,5,,,5.1,1500.0,Parque das Nações
+3217,5,73,Studio,6,False,,12.5,100.0,Lumiar
+2832,1,104,Studio,3,True,20,9.2,500.0,Olivais
+3876,4,127,T5,3,True,50,6.1,1500.0,Olivais
+2000,1,237,Studio,6,False,30,8.6,500.0,Avenidas Novas
+785,4,38,T4,5,False,20,8.9,1500.0,São Domingos de Benfica
+3995,4,61,T3,7,True,10,2.9,500.0,Parque das Nações
+2565,1,44,T1,0,,10,6.3,500.0,Avenidas Novas
+1268,3,169,T2,9,True,30,5.5,1500.0,Parque das Nações
+3557,4,235,T3,6,True,5,6.3,1500.0,Benfica
+4789,2,214,T2,6,,5,11.5,1000.0,Lumiar
+2661,5,165,T3,6,True,10,7.5,500.0,São Domingos de Benfica
+3793,3,101,Studio,6,True,30,14.1,500.0,Santo António
+1446,1,184,T4,9,False,5,4.8,500.0,Santo António
+3835,3,219,T2,9,,50,6.5,500.0,São Domingos de Benfica
+4650,0,41,T3,7,True,10,11.9,100.0,Ajuda
+1981,0,94,T4,8,,,8.4,100.0,Estrela
+2401,4,136,T2,8,False,50,8.4,300.0,Santo António
+3951,4,71,T1,1,True,30,1.3,1500.0,Misericórdia
+4564,2,219,T3,6,False,,6.3,1500.0,São Domingos de Benfica
+554,5,144,T1,6,True,50,4.4,1500.0,Misericórdia
+2323,3,168,Studio,3,False,5,15.0,1500.0,Arroios
+3962,0,132,T1,8,False,5,5.0,500.0,Estrela
+3579,4,200,T1,7,,,13.3,500.0,Lumiar
+1332,5,124,T5,0,True,20,10.3,100.0,Santo António
+4908,3,46,T3,1,False,10,5.4,500.0,Lumiar
+3306,4,189,Studio,1,False,,8.4,1000.0,Ajuda
+2990,4,242,T1,7,True,30,12.7,500.0,Avenidas Novas
+827,0,114,T4,0,True,10,13.3,500.0,Avenidas Novas
+3810,0,197,T2,3,True,50,2.8,500.0,Olivais
+3800,4,180,T1,9,False,30,5.4,500.0,Arroios
+4175,1,85,Studio,4,False,30,5.4,500.0,Santa Maria Maior
+3554,4,163,T1,8,True,5,1.1,100.0,Ajuda
+2643,5,115,T2,6,,50,9.2,500.0,Santa Maria Maior
+1811,4,207,Studio,7,,5,12.9,1000.0,Arroios
+3691,2,131,T3,8,False,5,6.0,1500.0,Santa Maria Maior
+3038,2,194,Studio,6,True,20,11.2,500.0,Olivais
+4483,2,221,T3,4,False,5,9.6,100.0,Belém
+664,1,83,Studio,4,True,10,5.9,100.0,Arroios
+4777,1,229,T2,9,True,30,2.5,1000.0,Ajuda
+1322,4,206,T2,5,False,5,10.8,300.0,São Domingos de Benfica
+1443,2,144,Studio,4,True,,12.9,100.0,Belém
+4925,1,168,T1,8,True,10,10.4,500.0,Avenidas Novas
+1274,0,117,T2,2,True,50,0.8,500.0,Parque das Nações
+2698,4,78,T3,2,True,30,3.6,1500.0,São Domingos de Benfica
+3656,5,178,T3,6,True,,1.5,100.0,Estrela
+4742,3,144,T4,6,,,8.8,1500.0,Benfica
+4195,4,223,T5,5,True,50,11.5,100.0,Ajuda
+3952,3,92,T5,2,True,,2.1,1000.0,Parque das Nações
+1414,2,133,T5,6,True,10,12.7,500.0,Misericórdia
+1808,3,112,T3,4,,50,8.6,100.0,Misericórdia
+4677,2,132,T4,6,False,,10.5,300.0,Lumiar
+1013,0,185,T5,1,True,50,14.6,500.0,Ajuda
+2420,3,46,T5,5,,50,1.7,1000.0,Avenidas Novas
+4094,4,35,Studio,7,True,5,13.6,500.0,Alvalade
+1909,2,176,Studio,0,True,5,2.3,500.0,Benfica
+3690,4,213,Studio,3,True,5,6.2,500.0,Alvalade
+4991,1,57,T1,0,True,,12.8,500.0,Estrela
+2055,2,223,T5,0,True,30,13.6,1500.0,Santa Maria Maior
+1304,3,67,T1,9,False,10,7.8,1000.0,Lumiar
+1779,2,148,T4,7,True,,9.1,300.0,Santo António
+4077,4,66,T3,6,False,5,10.8,500.0,Benfica
+3401,0,144,T5,9,True,50,12.6,100.0,Belém
+1887,2,97,T3,0,True,,2.3,100.0,Arroios
+3261,3,243,Studio,1,False,50,12.2,100.0,Benfica
+3179,1,247,T5,3,,50,7.5,1000.0,Olivais
+2606,5,206,T2,0,True,50,7.0,300.0,Belém
+4723,0,72,T1,2,False,20,6.6,500.0,Avenidas Novas
+3268,1,193,T1,7,True,30,7.9,300.0,Arroios
+4453,2,87,T5,7,True,10,14.2,300.0,São Domingos de Benfica
+3686,4,42,Studio,7,True,10,8.4,500.0,Estrela
+3780,4,81,T1,5,True,5,14.3,1000.0,Misericórdia
+3073,3,87,Studio,5,True,20,3.1,100.0,Arroios
+3099,4,61,T4,4,True,,11.0,500.0,Olivais
+4533,0,238,T3,8,False,,12.3,500.0,Lumiar
+736,4,134,T2,3,True,10,10.3,300.0,Avenidas Novas
+1804,3,217,T3,9,False,30,9.3,100.0,São Domingos de Benfica
+3930,5,112,T3,6,True,50,8.7,1000.0,Arroios
+1801,2,215,T4,0,False,5,13.0,1500.0,Santa Maria Maior
+3041,2,128,T1,8,False,30,12.4,300.0,Benfica
+2551,4,133,T2,6,True,10,2.3,300.0,Benfica
+941,1,213,T1,9,True,20,12.8,300.0,Lumiar
+2576,2,57,T5,8,False,5,6.5,300.0,São Domingos de Benfica
+3680,5,158,T3,6,,10,4.2,100.0,Benfica
+3157,4,199,T5,1,True,,13.1,1000.0,Santa Maria Maior
+4298,3,239,Studio,5,True,5,6.8,500.0,Avenidas Novas
+1304,5,77,T3,9,,10,12.2,100.0,Estrela
+574,4,69,T1,3,True,,4.3,1000.0,Avenidas Novas
+2675,5,126,T3,2,False,,0.6,500.0,Olivais
+4424,2,220,Studio,1,True,50,7.7,300.0,Ajuda
+2589,3,233,T4,5,True,20,2.0,1000.0,Ajuda
+540,4,229,T5,7,False,50,11.4,300.0,Misericórdia
+2581,0,245,T5,5,False,10,4.5,1000.0,Parque das Nações
+2122,3,237,T1,8,True,30,6.9,500.0,Santo António
+841,0,143,T3,4,False,50,1.8,1500.0,Estrela
+4552,5,161,T1,1,False,30,4.7,300.0,Santo António
+2574,1,195,T4,7,False,,11.8,300.0,Parque das Nações
+1145,3,184,T3,8,True,10,2.7,300.0,Ajuda
+4763,5,166,T3,9,False,20,9.9,500.0,Arroios
+1109,0,140,T1,3,False,30,13.8,100.0,São Domingos de Benfica
+954,2,173,T1,5,False,10,10.4,500.0,Arroios
+3453,2,213,Studio,9,False,30,12.3,300.0,Arroios
+2208,1,105,T4,7,True,50,2.1,300.0,Benfica
+3972,3,60,Studio,8,False,10,4.1,100.0,Santo António
+3469,3,245,T5,4,False,50,13.5,100.0,Benfica
+3528,3,148,T3,5,True,5,10.9,1500.0,Alvalade
+3181,5,171,T1,3,False,10,9.8,1000.0,Arroios
+4129,1,54,T3,4,True,30,10.1,300.0,Arroios
+4725,3,63,T3,6,False,5,6.5,1000.0,Belém
+3567,5,96,T2,8,True,50,1.1,100.0,Lumiar
+1886,2,181,T5,9,False,50,11.9,100.0,Ajuda
+4276,0,147,T2,5,,30,10.3,1500.0,Benfica
+3366,5,102,T3,5,False,5,7.4,500.0,Santa Maria Maior
+3863,2,55,T1,7,,,13.5,500.0,Olivais
+4624,2,177,T3,3,,20,5.4,500.0,Benfica
+648,0,221,T5,2,True,30,4.8,500.0,Olivais
+4350,2,133,T2,6,False,50,13.2,100.0,Alvalade
+2558,1,39,T1,4,False,10,12.1,300.0,Olivais
+1636,0,240,T3,1,,5,8.0,1500.0,Avenidas Novas
+686,2,96,T4,1,True,,2.4,500.0,Benfica
+3354,4,181,T5,5,,20,3.6,500.0,Misericórdia
+1750,5,34,T5,7,False,10,10.0,1500.0,Benfica
+1833,2,224,T4,0,False,5,6.1,100.0,Avenidas Novas
+4693,1,215,T3,5,True,,12.6,500.0,Santo António
+4650,3,56,T5,1,True,30,14.3,500.0,Estrela
+3211,2,237,T1,1,False,,12.2,1000.0,Misericórdia
+2285,3,142,T3,6,True,30,6.0,500.0,Arroios
+1250,4,44,T3,9,,5,11.9,300.0,Ajuda
+2262,2,192,T2,0,True,,5.6,500.0,Santa Maria Maior
+4420,0,233,T5,5,False,20,2.9,500.0,Olivais
+4960,3,134,T5,6,True,,1.0,1000.0,Benfica
+981,4,210,T4,7,False,5,6.1,1000.0,Benfica
+653,0,73,T2,6,False,10,13.6,500.0,Olivais
+2024,0,55,T2,5,True,10,4.0,300.0,Parque das Nações
+2620,0,204,T5,8,True,,3.5,1000.0,Ajuda
+2843,0,191,T3,2,True,,14.6,100.0,Avenidas Novas
+1740,2,244,T2,5,False,30,0.9,500.0,Belém
+560,5,124,T4,3,False,5,11.9,500.0,Lumiar
+1438,2,207,T2,1,False,30,5.2,500.0,Arroios
+2139,2,113,T4,0,False,20,1.0,300.0,Misericórdia
+4620,4,169,T2,0,False,10,13.8,100.0,Benfica
+4726,4,244,T4,9,True,50,2.5,1000.0,Alvalade
+4069,5,161,T2,2,True,50,8.5,500.0,Ajuda
+1752,4,116,T2,3,True,5,4.5,500.0,Olivais
+4703,1,205,T1,1,,5,1.4,500.0,Benfica
+671,5,212,T4,0,,50,1.2,500.0,Misericórdia
+1958,4,141,T4,3,True,5,2.2,500.0,Alvalade
+4049,5,158,T4,6,False,10,1.5,1500.0,Avenidas Novas
+4697,2,118,Studio,9,,20,11.5,300.0,Lumiar
+2822,2,95,T2,5,False,20,7.5,1000.0,Lumiar
+2136,5,187,T4,5,True,30,5.5,500.0,Misericórdia
+3615,1,160,T5,8,True,10,6.6,500.0,Ajuda
+4590,1,151,Studio,1,False,5,14.0,500.0,Alvalade
+3504,5,178,T1,3,,5,13.7,1000.0,Santa Maria Maior
+829,4,246,T4,4,False,30,10.9,300.0,Olivais
+4140,3,113,T4,0,True,30,13.3,100.0,Alvalade
+4394,1,206,Studio,7,True,5,5.1,300.0,Santa Maria Maior
+4607,0,145,T2,7,False,5,6.0,500.0,Estrela
+1841,2,243,T5,5,,10,9.4,500.0,Olivais
+4163,5,242,T1,4,False,30,9.5,300.0,Avenidas Novas
+715,0,219,T4,7,False,10,7.5,300.0,Arroios
+838,5,145,T2,2,True,,6.3,1000.0,Belém
+4562,2,67,T5,2,,5,14.8,1000.0,Arroios
+3208,2,172,T5,1,False,50,12.4,1500.0,Belém
+3652,1,139,T1,4,True,50,6.8,500.0,Arroios
+2250,1,209,T3,2,False,,11.0,1500.0,Santo António
+2921,0,236,T5,2,True,5,4.4,500.0,Alvalade
+1209,5,75,T3,5,True,30,2.0,500.0,Santa Maria Maior
+4226,2,54,T5,7,True,50,5.6,1500.0,Ajuda
+4142,0,50,T1,1,True,30,6.3,1500.0,Misericórdia
+4493,3,245,Studio,3,True,50,0.7,100.0,Benfica
+988,0,150,T1,6,False,30,12.3,300.0,Belém
+546,4,151,T1,0,False,50,5.7,1000.0,Benfica
+3859,0,162,Studio,0,False,30,8.9,1500.0,Estrela
+900,4,99,Studio,9,True,,1.6,1000.0,Estrela
+4490,4,142,T2,6,True,10,3.0,500.0,Benfica
+3657,4,136,T5,6,False,30,13.4,1500.0,Santo António
+4845,3,141,T2,0,True,10,9.3,500.0,Santa Maria Maior
+890,0,137,Studio,0,True,10,14.3,1500.0,Santo António
+4353,0,76,T3,3,,5,15.0,500.0,Estrela
+4930,3,244,T3,4,False,,5.9,100.0,Olivais
+1128,2,225,T1,4,,10,4.8,500.0,Benfica
+4732,1,120,T4,3,False,20,12.9,300.0,São Domingos de Benfica
+3430,0,47,T1,7,True,10,15.0,300.0,Estrela
+2021,1,178,T1,6,False,30,9.6,500.0,Belém
+1326,5,249,T4,8,True,10,12.0,500.0,São Domingos de Benfica
+2000,5,243,T5,6,False,30,11.8,300.0,Ajuda
+3794,3,133,Studio,9,True,30,5.7,500.0,São Domingos de Benfica
+2919,5,180,T3,0,,20,8.8,300.0,Santo António
+1434,5,221,T1,6,True,10,12.6,100.0,Estrela
+3542,2,224,T4,0,,10,10.5,1500.0,Santa Maria Maior
+4997,2,69,T2,6,,50,0.8,100.0,Santa Maria Maior
+1966,2,167,T1,9,False,50,5.4,300.0,Benfica
+4061,5,118,T3,7,False,5,2.6,1500.0,Belém
+1114,3,209,Studio,8,False,30,3.9,300.0,Benfica
+1682,4,229,T1,2,,20,13.6,100.0,Lumiar
+3723,4,232,T1,3,False,50,1.0,100.0,Alvalade
+3167,1,90,T5,3,False,10,3.7,500.0,Avenidas Novas
+630,4,221,T4,8,False,5,5.0,500.0,Alvalade
+3483,4,34,T2,6,,20,9.4,100.0,Santa Maria Maior
+4778,2,151,T2,2,False,,8.2,1500.0,São Domingos de Benfica
+4959,2,210,Studio,9,False,10,3.7,500.0,Alvalade
+538,5,84,T3,4,False,10,2.9,500.0,Arroios
+4459,1,66,Studio,6,,,3.9,1000.0,Olivais
+4087,0,85,T1,7,False,30,7.8,1000.0,São Domingos de Benfica
+1420,1,216,T1,0,True,30,4.4,500.0,Benfica
+3269,1,131,T2,1,False,50,14.2,300.0,Avenidas Novas
+4611,3,122,T3,6,,50,7.2,1500.0,Olivais
+992,5,226,T4,1,False,10,1.4,500.0,São Domingos de Benfica
+1631,3,102,T3,6,,10,11.1,500.0,Benfica
+4021,1,88,T1,8,True,50,5.3,1000.0,Avenidas Novas
+810,1,31,T4,1,False,,10.0,1500.0,Lumiar
+1238,1,222,T3,6,False,50,4.6,1500.0,Avenidas Novas
+3741,4,133,T3,3,,10,8.8,1000.0,Avenidas Novas
+1045,3,217,T4,1,True,20,11.7,1500.0,Estrela
+2961,1,80,T1,6,,10,14.0,1500.0,Arroios
+4846,2,59,T3,4,False,20,4.3,1000.0,Ajuda
+2304,5,40,T4,0,True,20,5.4,100.0,Benfica
+3712,5,249,T5,4,True,10,7.2,500.0,Belém
+4310,2,137,T5,2,True,5,13.9,300.0,Avenidas Novas
+1313,5,105,T1,6,False,50,13.6,500.0,Santa Maria Maior
+4624,4,196,T4,5,True,30,1.8,300.0,Estrela
+2532,4,119,T5,7,True,10,2.4,100.0,Misericórdia
+4913,0,234,T4,4,,20,7.7,100.0,Misericórdia
+744,0,152,T3,1,True,10,2.0,1500.0,Ajuda
+771,0,229,T1,8,True,50,5.5,300.0,Belém
+4011,5,220,T5,7,False,,2.7,100.0,Alvalade
+2271,4,221,T3,5,False,20,9.7,300.0,Arroios
+1762,4,218,Studio,9,False,30,14.3,100.0,São Domingos de Benfica
+2924,4,154,Studio,6,False,30,15.0,500.0,Olivais
+4861,2,211,T1,8,False,30,5.9,100.0,Santo António
+1420,4,249,T5,6,False,,9.2,300.0,Parque das Nações
+3930,2,151,T5,2,True,5,12.9,1500.0,Parque das Nações
+4935,0,123,T5,5,True,20,2.2,300.0,Arroios
+4984,0,230,T4,6,False,,10.5,1000.0,Santo António
+3124,5,132,T3,1,True,20,6.4,300.0,Estrela
+4260,0,215,T5,2,False,,3.5,500.0,Avenidas Novas
+2550,5,242,T3,3,False,,6.3,500.0,Lumiar
+4000,1,213,T1,9,True,5,1.6,500.0,Estrela
+1665,1,191,T5,5,True,20,10.6,500.0,Misericórdia
+875,3,60,T1,0,True,,4.2,100.0,Olivais
+2533,5,81,T5,8,False,5,5.0,500.0,Misericórdia
+645,3,118,Studio,4,False,10,2.3,300.0,Benfica
+4888,3,105,T2,6,False,50,13.0,500.0,Misericórdia
+931,1,158,T1,8,True,,7.7,1500.0,Parque das Nações
+1204,5,212,T5,8,False,30,8.8,500.0,Parque das Nações
+3132,1,51,T2,0,,5,8.8,300.0,Olivais
+4994,3,69,T1,0,True,5,6.5,100.0,Avenidas Novas
+1463,5,130,T4,2,False,,3.3,100.0,Misericórdia
+2734,3,140,T5,5,,5,11.3,1500.0,Arroios
+2541,4,158,T4,1,True,10,2.3,1500.0,Arroios
+2328,5,94,Studio,9,False,5,2.0,300.0,Santo António
+2608,5,220,T5,0,True,50,10.8,1500.0,Ajuda
+4568,3,211,Studio,0,False,50,3.5,1500.0,Lumiar
+1438,4,199,T2,4,True,30,4.9,100.0,Olivais
+1306,2,178,T1,3,,10,7.4,300.0,Misericórdia
+1963,1,108,T3,0,False,50,7.0,500.0,Olivais
+3915,3,238,Studio,3,False,,10.8,1500.0,Estrela
+510,5,51,T3,2,False,20,9.5,300.0,Alvalade
+2368,1,195,T3,1,False,20,9.8,500.0,Avenidas Novas
+1384,1,128,T1,8,False,20,10.9,100.0,Santo António
+4064,1,237,T2,0,,,4.7,500.0,Belém
+1889,2,37,T1,6,,5,5.2,100.0,São Domingos de Benfica
+3901,0,219,T5,3,False,,6.9,100.0,Estrela
+4821,3,204,Studio,4,,5,5.0,1000.0,Santo António
+1324,0,46,T3,9,False,20,14.8,300.0,Estrela
+2765,0,46,T1,4,False,30,12.3,500.0,Misericórdia
+1436,0,119,T1,0,False,30,2.9,1500.0,Alvalade
+3300,1,170,T1,5,True,5,0.6,500.0,São Domingos de Benfica
+3053,4,174,Studio,8,True,20,1.1,300.0,Santa Maria Maior
+4345,1,195,T2,1,True,,4.0,100.0,Arroios
+2296,1,110,T1,6,False,30,2.2,1000.0,Arroios
+553,5,107,Studio,5,True,5,8.2,300.0,São Domingos de Benfica
+1226,5,202,T3,4,False,,12.9,500.0,Estrela
+3236,0,35,T5,3,,20,11.2,500.0,Avenidas Novas
+3670,1,192,T4,3,True,10,3.6,300.0,Avenidas Novas
+2413,0,139,Studio,5,False,20,6.3,1500.0,Santa Maria Maior
+2096,5,43,T4,3,True,20,7.9,500.0,Lumiar
+2414,4,101,T1,4,True,,12.2,500.0,Arroios
+2966,3,218,T1,5,False,,12.7,1500.0,Benfica
+3237,0,172,Studio,4,False,50,13.7,1000.0,Estrela
+1349,4,83,T4,6,False,50,7.9,100.0,Belém
+2609,3,56,T1,8,True,,10.6,100.0,Alvalade
+502,2,42,T3,9,False,,2.1,500.0,Ajuda
+4755,0,188,T2,6,True,10,8.7,1000.0,Avenidas Novas
+4569,0,192,T2,6,True,10,4.1,1500.0,Parque das Nações
+1392,2,89,T1,3,True,20,6.8,300.0,Olivais
+2530,2,35,T4,0,True,30,9.7,500.0,São Domingos de Benfica
+3660,0,226,T5,7,True,10,4.2,300.0,Estrela
+2876,2,243,T1,3,True,20,1.3,500.0,Arroios
+2433,1,87,T5,0,,5,0.6,300.0,Olivais
+1880,3,78,T5,4,True,50,0.8,1500.0,Belém
+4181,3,180,T4,7,True,30,0.6,1500.0,Santa Maria Maior
+1790,3,246,T5,3,True,20,2.1,1000.0,São Domingos de Benfica
+2140,1,191,T3,7,False,,4.0,300.0,Misericórdia
+3182,2,55,T4,7,True,5,3.7,300.0,Parque das Nações
+1487,4,76,T1,2,,50,14.8,1000.0,Lumiar
+1718,2,34,T3,8,,5,4.9,1000.0,Santo António
+1855,0,247,Studio,2,True,20,2.3,1500.0,Santa Maria Maior
+4765,5,49,T2,0,False,10,8.4,1500.0,Ajuda
+4635,3,163,T1,1,True,50,12.9,500.0,Misericórdia
+2060,2,227,T1,5,False,5,10.3,300.0,Belém
+1918,4,88,T1,9,False,10,4.8,1500.0,Arroios
+1454,0,221,T3,1,True,30,8.6,1500.0,Santa Maria Maior
+1483,1,175,Studio,5,True,20,10.9,300.0,Benfica
+1474,1,161,T4,0,False,20,11.1,1000.0,Alvalade
+4633,4,46,Studio,0,False,50,10.2,300.0,São Domingos de Benfica
+4472,0,43,T3,4,True,5,13.1,100.0,Misericórdia
+1413,3,235,T1,9,False,30,13.1,300.0,Avenidas Novas
+536,2,42,T2,8,False,,8.9,100.0,Misericórdia
+3887,0,164,T1,7,,50,6.7,300.0,Ajuda
+2211,1,157,T4,2,True,,9.8,100.0,Alvalade
+3520,4,73,T5,2,False,50,12.4,100.0,Belém
+1295,4,148,T2,0,False,5,0.6,300.0,Olivais
+4536,2,172,T1,2,True,30,14.9,500.0,Olivais
+3611,4,48,T2,0,False,5,3.2,1500.0,Alvalade
+1824,4,92,T5,7,False,20,7.3,500.0,Santa Maria Maior
+817,0,192,Studio,0,,,13.1,1500.0,Lumiar
+2896,3,110,T3,4,True,10,3.8,100.0,Estrela
+2662,2,192,T1,8,False,20,7.4,300.0,Avenidas Novas
+3245,0,176,T4,6,True,20,2.4,300.0,Lumiar
+2091,3,177,Studio,3,,,6.2,300.0,Lumiar
+3611,0,129,T1,8,True,50,3.1,300.0,Misericórdia
+4430,5,192,Studio,8,,20,5.8,500.0,Misericórdia
+2496,0,189,T4,1,,30,5.9,500.0,Parque das Nações
+1812,4,151,T1,9,True,20,14.9,1000.0,Avenidas Novas
+1785,3,205,T5,9,,30,14.9,100.0,Santa Maria Maior
+4811,2,73,T5,5,,5,2.2,500.0,Arroios
+2883,2,133,T4,3,True,50,11.0,1500.0,Santo António
+3739,3,181,T2,7,False,30,1.3,1000.0,Santo António
+2639,4,90,T4,6,False,20,0.9,1000.0,Santo António
+2204,1,154,T2,6,True,50,2.0,300.0,Belém
+862,0,174,T1,9,True,50,14.5,500.0,Belém
+3104,4,100,T2,8,True,30,14.1,1500.0,São Domingos de Benfica
+2216,5,136,T1,4,True,30,3.3,300.0,Santa Maria Maior
+4951,3,79,T1,5,False,10,2.8,300.0,Parque das Nações
+4786,0,94,T3,0,True,10,4.0,500.0,Santo António
+4238,2,128,T1,5,,50,8.0,100.0,São Domingos de Benfica
+2969,1,61,T2,1,False,,8.8,1000.0,Misericórdia
+1056,5,193,T3,5,True,,3.7,1500.0,Avenidas Novas
+1325,2,170,T3,8,False,10,11.5,1000.0,São Domingos de Benfica
+3308,3,227,T1,7,False,20,5.0,500.0,São Domingos de Benfica
+3219,0,87,T4,8,,5,13.9,100.0,Ajuda
+4008,3,157,T4,9,True,50,10.0,300.0,Santo António
+4241,0,171,T5,7,True,5,6.8,100.0,São Domingos de Benfica
+2074,4,194,T3,2,,10,12.0,300.0,São Domingos de Benfica
+4498,1,141,T1,7,,30,12.4,100.0,Santo António
+2629,4,236,T4,5,False,50,4.7,300.0,Ajuda
+2903,4,97,T1,5,False,10,5.4,1000.0,São Domingos de Benfica
+3829,3,69,T1,5,True,20,14.1,1000.0,Arroios
+1088,1,216,T3,2,False,50,2.9,1000.0,Alvalade
+2512,0,237,T5,9,True,50,1.1,1000.0,Misericórdia
+2047,0,249,T3,0,True,,7.1,100.0,Avenidas Novas
+794,5,173,Studio,3,,30,12.1,300.0,Olivais
+2485,2,219,T4,9,True,50,11.7,1000.0,Olivais
+3617,5,161,T4,5,False,30,13.8,100.0,Santa Maria Maior
+2190,5,202,T4,9,,10,8.2,300.0,Misericórdia
+1636,0,119,T2,1,True,20,2.0,100.0,Benfica
+2564,3,57,T1,6,,20,9.0,500.0,Alvalade
+4955,4,125,T3,6,,50,11.8,1000.0,Olivais
+1507,4,223,T4,3,False,50,1.9,500.0,Estrela
+3014,4,60,Studio,3,True,10,3.0,100.0,Santo António
+4026,1,32,T4,0,True,,0.7,1000.0,Lumiar
+1747,0,165,T5,1,False,,9.1,1500.0,Misericórdia
+4402,3,53,T1,8,True,,13.4,300.0,São Domingos de Benfica
+1935,1,44,T1,9,True,30,10.2,500.0,Benfica
+1071,2,200,T3,7,,,14.7,1000.0,Estrela
+2882,3,188,T2,7,True,20,1.4,1500.0,Santo António
+1745,5,230,T3,8,False,30,13.6,100.0,São Domingos de Benfica
+2584,3,74,T4,6,True,10,12.3,100.0,Lumiar
+777,3,223,T5,8,False,20,5.1,1500.0,Lumiar
+2387,4,37,Studio,9,,20,14.6,500.0,Arroios
+1765,3,100,T3,1,True,5,4.7,1500.0,Avenidas Novas
+1540,5,137,T2,5,True,10,13.4,300.0,Santa Maria Maior
+1417,5,144,T3,2,False,10,13.3,100.0,Santo António
+1385,0,132,T1,5,False,5,11.5,1500.0,Avenidas Novas
+3252,3,154,T4,2,False,30,8.7,500.0,Alvalade
+521,4,86,T4,7,True,,2.2,500.0,Misericórdia
+3691,3,237,T4,3,True,,8.2,1500.0,Benfica
+2853,2,59,T4,9,,,5.7,300.0,Parque das Nações
+1186,2,231,T4,5,,,12.0,100.0,Arroios
+784,4,175,T4,8,False,,11.5,500.0,Ajuda
+4247,0,143,Studio,1,,5,13.7,1500.0,Estrela
+1262,0,226,T2,1,False,10,0.7,1500.0,Parque das Nações
+2928,5,146,T4,6,False,30,12.2,1000.0,Estrela
+3007,5,196,T2,1,True,20,14.1,1500.0,Misericórdia
+528,1,89,T5,1,False,,11.9,300.0,Benfica
+1406,4,127,T4,3,False,5,2.4,500.0,Benfica
+3604,3,200,T3,8,True,30,1.7,1000.0,Lumiar
+4499,4,155,T4,7,False,30,0.8,500.0,Parque das Nações
+3494,1,202,T1,1,False,30,9.6,500.0,São Domingos de Benfica
+3006,5,180,Studio,7,False,5,9.6,300.0,Avenidas Novas
+4109,4,226,T3,3,False,20,14.8,1500.0,Benfica
+4053,4,123,T3,1,,,6.3,300.0,Olivais
+1953,5,163,T1,9,True,30,5.3,1500.0,Estrela
+3856,1,213,T4,6,False,5,9.6,1000.0,Lumiar
+1015,5,151,Studio,5,False,10,12.5,300.0,Santo António
+538,0,137,T3,9,False,5,14.1,300.0,Misericórdia
+3842,3,33,Studio,4,True,5,12.1,500.0,São Domingos de Benfica
+1386,5,122,T3,0,True,5,6.7,100.0,Benfica
+3344,1,180,T4,1,,30,9.7,300.0,Avenidas Novas
+2704,2,35,T5,7,False,5,12.9,500.0,Santa Maria Maior
+1598,0,61,T3,0,,10,7.6,100.0,Belém
+2323,2,135,T5,2,False,30,3.6,1500.0,Santo António
+3701,5,175,T3,1,False,10,3.0,1500.0,Misericórdia
+3655,0,44,T2,4,,50,0.5,1500.0,Santo António
+3593,3,197,T4,3,False,5,10.9,500.0,Parque das Nações
+4030,5,151,T1,6,True,,2.1,500.0,Olivais
+4278,3,125,T5,4,False,,4.0,100.0,Alvalade
+3396,4,230,T1,7,,30,4.8,1500.0,Ajuda
+3953,2,231,T4,3,True,,8.6,500.0,Santo António
+4011,0,241,T1,5,True,30,6.3,300.0,Belém
+1488,3,35,T4,3,True,5,10.3,500.0,São Domingos de Benfica
+4616,1,141,T1,1,,20,1.3,500.0,Lumiar
+4526,3,149,T5,0,True,20,2.3,500.0,Estrela
+4679,1,152,T2,0,False,10,7.7,100.0,Parque das Nações
+2182,5,220,T1,7,False,5,5.4,1500.0,Parque das Nações
+4463,0,96,T5,3,False,,4.8,500.0,Santa Maria Maior
+1433,3,135,T3,4,False,5,1.5,300.0,Alvalade
+4098,3,168,T4,7,True,50,13.5,300.0,Belém
+3733,0,72,Studio,6,False,20,10.5,1500.0,Estrela
+2480,3,174,Studio,7,False,,2.3,500.0,Ajuda
+2355,1,125,T4,7,,20,1.4,100.0,Arroios
+3556,3,161,T2,5,True,5,14.6,500.0,Arroios
+1292,2,220,T1,9,,,10.4,500.0,Parque das Nações
+1291,5,225,T2,1,False,10,6.6,1500.0,Santo António
+2309,4,110,Studio,5,,5,10.7,300.0,Santo António
+2755,1,70,T5,0,False,10,11.5,500.0,Belém
+4110,2,240,T4,0,False,,11.8,300.0,São Domingos de Benfica
+2107,5,162,T4,2,,20,7.4,300.0,Alvalade
+1484,0,189,T2,2,,50,6.7,1500.0,Parque das Nações
+4176,1,243,T5,4,False,30,0.7,1000.0,Arroios
+3880,4,227,T2,0,True,20,13.9,1000.0,São Domingos de Benfica
+1019,5,64,T1,9,True,10,9.2,1000.0,Parque das Nações
+1090,4,51,T3,5,True,5,3.4,500.0,Arroios
+1550,0,222,T5,6,True,,13.8,1500.0,Belém
+4133,0,241,T3,9,True,20,13.8,300.0,Belém
+4944,1,179,T1,2,,50,14.8,500.0,Alvalade
+1459,3,141,T3,3,True,,13.2,500.0,Lumiar
+1192,0,40,Studio,9,False,10,15.0,1000.0,Lumiar
+4399,5,234,T3,9,True,,4.0,100.0,Parque das Nações
+4973,3,32,T1,9,True,,12.7,500.0,Santa Maria Maior
+3446,2,166,T3,9,True,5,12.4,500.0,Parque das Nações
+1026,4,89,T4,9,True,30,3.8,1500.0,Parque das Nações
+3724,3,105,T2,2,False,10,1.9,500.0,Alvalade
+2753,4,116,Studio,0,,5,14.7,500.0,Santa Maria Maior
+3844,3,43,T4,7,True,30,4.8,500.0,Misericórdia
+4465,2,47,T4,9,False,5,13.1,1500.0,Parque das Nações
+2375,0,142,T1,9,False,30,0.6,100.0,Avenidas Novas
+2263,2,102,T2,1,,30,0.8,300.0,Avenidas Novas
+1020,0,52,T2,0,False,30,7.3,300.0,Lumiar
+1516,0,231,T5,7,False,5,4.0,1000.0,Lumiar
+616,4,112,Studio,6,False,,10.5,1000.0,Santa Maria Maior
+2933,5,154,T1,6,,30,8.7,100.0,Estrela
+1083,2,204,Studio,3,True,,1.6,300.0,Santo António
+894,3,98,T5,8,False,10,2.9,1000.0,Belém
+4288,2,76,T3,5,,50,6.1,500.0,Santa Maria Maior
+3268,4,145,T4,1,False,,3.2,500.0,Misericórdia
+4667,0,244,Studio,0,False,50,12.0,1500.0,Arroios
+4360,4,59,T4,0,False,30,6.5,1000.0,Lumiar
+773,1,54,T1,8,True,50,1.9,100.0,Ajuda
+2513,1,185,T3,3,False,50,7.5,300.0,Avenidas Novas
+4933,3,141,T1,4,False,30,1.8,100.0,Ajuda
+1889,4,54,T3,2,False,,2.4,1500.0,Avenidas Novas
+4066,3,103,T3,3,False,30,4.0,1500.0,Lumiar
+665,3,235,T4,7,,10,13.0,100.0,Santo António
+2067,1,87,T1,3,True,20,13.9,1000.0,Ajuda
+1228,3,123,T1,8,False,5,12.5,1000.0,Benfica
+2543,1,148,Studio,8,False,30,5.3,300.0,Misericórdia
+4697,0,156,T1,5,False,30,4.5,500.0,Avenidas Novas
+3996,4,198,Studio,1,True,50,8.5,300.0,São Domingos de Benfica
+1278,3,54,T2,9,False,10,11.0,500.0,Belém
+713,1,107,T2,6,,50,14.9,500.0,Lumiar
+4262,2,128,T2,8,False,,2.4,500.0,Lumiar
+2076,3,145,T5,5,,30,1.2,300.0,Arroios
+2948,5,77,T1,2,,30,10.6,500.0,Avenidas Novas
+3436,0,39,T5,6,True,50,12.6,500.0,Misericórdia
+3617,0,128,T1,4,True,30,12.8,500.0,Parque das Nações
+1091,2,232,Studio,0,,,10.3,100.0,Santo António
+3220,1,40,T5,2,,20,14.3,1000.0,Parque das Nações
+1213,3,114,T5,4,True,5,7.9,500.0,Avenidas Novas
+1435,1,178,T5,6,True,5,13.8,500.0,Olivais
+4837,0,243,T3,2,True,5,14.5,500.0,Estrela
+501,1,202,Studio,5,,20,12.8,500.0,Avenidas Novas
+3348,0,164,T2,4,True,30,5.0,500.0,Benfica
+4544,1,238,Studio,0,False,50,3.3,100.0,Alvalade
+2449,2,221,T3,9,,10,8.4,500.0,Alvalade
+1417,4,155,T1,5,True,30,7.1,1500.0,Olivais
+3674,2,93,Studio,7,False,20,13.2,300.0,Avenidas Novas
+2741,2,31,T5,0,True,,2.0,100.0,Belém
+589,4,105,T2,1,,20,4.2,1500.0,Alvalade
+2209,4,150,T2,3,True,5,11.4,100.0,Santa Maria Maior
+2669,3,71,T1,1,False,30,1.9,1000.0,Parque das Nações
+4738,3,239,Studio,8,False,5,5.2,100.0,Santo António
+3541,2,83,T3,9,True,10,6.1,100.0,Ajuda
+605,2,104,T1,7,True,,9.5,1000.0,Estrela
+1386,0,45,Studio,7,False,5,2.8,500.0,Avenidas Novas
+927,0,47,T4,3,True,10,13.0,300.0,Santa Maria Maior
+2395,3,216,T2,4,,20,7.0,1500.0,São Domingos de Benfica
+816,5,119,T3,3,,5,13.8,500.0,São Domingos de Benfica
+1134,5,173,T5,8,False,5,7.3,300.0,Santa Maria Maior
+2425,3,35,T3,1,False,50,4.5,100.0,Misericórdia
+2556,0,214,T5,7,False,,2.6,500.0,São Domingos de Benfica
+3644,0,137,T3,1,,,0.6,1000.0,Parque das Nações
+2770,5,204,T2,0,False,20,8.2,300.0,Arroios
+1939,1,77,T5,9,True,50,2.1,500.0,Misericórdia
+1052,1,71,Studio,2,True,10,6.2,1500.0,Avenidas Novas
+1215,0,105,T5,8,False,10,9.0,300.0,São Domingos de Benfica
+4411,1,217,T1,2,False,20,4.5,300.0,Alvalade
+2213,4,106,Studio,8,False,,3.0,500.0,Santa Maria Maior
+3889,3,161,T1,6,True,10,11.7,500.0,Arroios
+1607,3,159,T3,9,False,20,14.2,1000.0,Misericórdia
+4706,0,247,Studio,0,True,10,2.0,500.0,Lumiar
+750,2,88,T3,9,True,30,2.8,1000.0,Benfica
+2930,5,184,T4,4,False,5,14.4,500.0,São Domingos de Benfica
+2554,0,56,T3,8,True,,1.0,300.0,Parque das Nações
+958,1,108,T3,2,False,30,14.7,1000.0,Arroios
+707,5,101,T1,8,True,20,0.6,500.0,Olivais
+1399,2,36,T5,4,False,20,13.2,500.0,Benfica
+3961,1,220,T4,8,False,30,5.0,1500.0,Misericórdia
+3885,4,140,T3,9,True,5,14.1,1000.0,São Domingos de Benfica
+521,1,148,T3,5,True,5,5.1,1500.0,Belém
+909,4,203,T4,8,,50,10.0,500.0,Avenidas Novas
+1394,5,92,T4,6,False,10,1.7,100.0,Olivais
+1014,4,153,Studio,6,False,50,4.0,500.0,Parque das Nações
+4609,5,41,T1,7,True,5,11.7,300.0,Lumiar
+2634,5,170,T4,6,False,30,8.2,500.0,Arroios
+4095,5,72,T4,8,False,10,14.0,100.0,Ajuda
+3456,5,46,T2,8,False,30,6.7,300.0,Avenidas Novas
+2060,5,92,T5,5,False,50,13.1,1000.0,Arroios
+1766,1,238,T4,6,True,20,7.0,1000.0,Benfica
+2669,5,149,T1,1,True,30,14.7,500.0,Arroios
+4138,1,65,T5,8,,50,14.4,300.0,Benfica
+1249,5,242,T5,0,,50,5.3,500.0,São Domingos de Benfica
+3927,4,37,T3,0,True,50,13.3,300.0,Olivais
+2427,5,98,T3,2,False,20,12.8,1500.0,Arroios
+4304,2,119,T3,5,True,20,3.6,100.0,Olivais
+4202,5,237,T3,4,True,20,9.6,1000.0,Lumiar
+2856,5,65,T2,1,True,10,1.6,500.0,Lumiar
+2835,4,57,T4,8,True,20,12.6,300.0,Avenidas Novas
+806,3,147,T3,9,False,20,3.0,1000.0,Benfica
+4165,4,122,Studio,3,False,20,1.5,500.0,Misericórdia
+2489,2,204,T3,3,True,30,6.3,1000.0,Lumiar
+1161,3,105,T4,4,True,20,8.9,500.0,Estrela
+811,0,130,T3,7,,10,12.9,1000.0,Arroios
+3420,0,187,T2,9,True,50,14.6,500.0,Estrela
+1582,2,180,T1,3,False,30,6.9,1500.0,Avenidas Novas
+3471,4,173,T1,4,True,5,1.4,100.0,Arroios
+1254,1,43,T4,3,False,20,11.4,1000.0,Alvalade
+4630,2,231,T1,5,True,50,8.7,100.0,Olivais
+852,3,100,T1,2,True,50,7.0,1000.0,São Domingos de Benfica
+1402,3,209,Studio,7,True,30,5.0,300.0,Benfica
+4388,5,153,T4,5,True,5,7.8,1500.0,Parque das Nações
+658,0,154,T4,9,False,,5.4,500.0,Parque das Nações
+2477,3,66,T1,4,False,10,11.5,1500.0,Belém
+1456,2,58,T1,1,True,,8.4,100.0,Santo António
+2571,3,224,T1,9,True,50,13.2,300.0,Santa Maria Maior
+903,2,172,T5,9,False,,8.4,500.0,Misericórdia
+3279,1,204,T2,6,False,50,4.0,1500.0,Benfica
+1887,5,203,T3,1,,,12.8,500.0,Avenidas Novas
+3953,0,209,T2,0,False,50,8.6,300.0,Lumiar
+1455,3,48,T4,6,False,50,3.5,300.0,Ajuda
+2212,2,234,Studio,4,False,30,9.5,100.0,Misericórdia
+1773,4,135,T3,0,,5,5.7,500.0,Misericórdia
+4311,0,50,Studio,3,,50,12.7,300.0,Ajuda
+3125,1,93,T5,3,True,10,7.1,300.0,Olivais
+2882,2,194,T4,9,True,10,11.0,500.0,Avenidas Novas
+1941,5,56,T5,6,True,20,1.9,100.0,Misericórdia
+3479,5,84,T4,8,False,50,6.2,100.0,Alvalade
+2297,1,58,Studio,1,False,50,14.8,500.0,Misericórdia
+4890,1,177,Studio,0,False,50,12.2,300.0,Santo António
+4509,5,54,Studio,1,True,,2.8,500.0,Santa Maria Maior
+1894,3,99,T4,6,False,50,4.5,1000.0,Belém
+4781,3,92,T1,9,,50,5.3,1500.0,Estrela
+1769,2,193,Studio,5,True,10,9.9,100.0,Avenidas Novas
+4214,4,159,T5,3,False,5,11.5,500.0,São Domingos de Benfica
+1029,2,179,T3,0,False,5,11.4,500.0,Parque das Nações
+4123,4,45,T4,0,,20,7.9,500.0,Olivais
+3458,1,175,T5,4,,10,12.3,300.0,Benfica
+3414,0,226,T2,0,False,50,6.8,1500.0,Lumiar
+4091,2,211,T2,6,False,5,2.3,100.0,São Domingos de Benfica
+2647,2,129,T3,0,,30,8.7,1000.0,Alvalade
+3869,4,59,T1,0,False,30,14.3,300.0,Olivais
+1439,1,74,Studio,1,True,30,12.0,100.0,Avenidas Novas
+1025,1,48,T4,9,False,50,8.9,500.0,Estrela
+501,4,244,T5,2,True,50,9.9,100.0,Santa Maria Maior
+874,1,63,Studio,0,True,20,14.0,500.0,Belém
+2840,5,170,T5,8,,20,6.7,1500.0,Estrela
+4505,3,200,T4,9,False,20,5.3,1000.0,Benfica
+3552,5,91,T2,7,False,,14.7,1500.0,Ajuda
+2865,0,147,Studio,4,True,30,13.0,500.0,Lumiar
+2025,2,129,T3,1,True,50,5.2,1000.0,Ajuda
+4976,0,51,T1,4,True,30,7.2,1000.0,São Domingos de Benfica
+2146,2,209,T3,5,True,20,6.5,300.0,Avenidas Novas
+513,3,209,T1,0,False,50,2.7,1000.0,São Domingos de Benfica
+2778,1,140,T5,3,True,10,14.4,100.0,Arroios
+3655,5,193,Studio,8,False,5,6.4,1500.0,Avenidas Novas
+629,4,102,Studio,1,True,5,13.2,500.0,Belém
+4314,5,176,T1,4,,20,3.2,500.0,Lumiar
+3716,3,67,T2,0,True,30,8.4,1500.0,Benfica
+3438,0,99,T4,3,True,10,0.8,300.0,Avenidas Novas
+4428,4,145,T3,3,True,50,11.6,1000.0,Olivais
+2540,1,108,T5,5,False,30,8.9,500.0,Parque das Nações
+527,3,214,T3,9,False,20,9.6,100.0,Lumiar
+2613,4,177,T3,8,False,30,1.2,300.0,Santo António
+1752,3,38,T5,2,False,20,3.6,1000.0,Avenidas Novas
+4856,3,61,T5,8,True,,1.6,500.0,Olivais
+2546,1,161,Studio,5,False,5,4.7,500.0,Avenidas Novas
+4523,2,79,T3,6,False,5,9.6,1000.0,Olivais
+4896,4,111,T4,9,True,30,8.7,300.0,Santo António
+3874,1,34,T4,1,True,10,9.4,500.0,Arroios
+3966,3,177,T1,9,True,50,8.5,500.0,Alvalade
+3581,1,116,T5,5,True,20,4.5,500.0,Santa Maria Maior
+4278,2,155,Studio,5,False,50,4.0,500.0,Belém
+1129,5,104,T4,1,True,5,2.5,1000.0,Belém
+769,4,194,T2,1,True,10,12.8,500.0,São Domingos de Benfica
+3139,2,51,Studio,1,True,10,9.4,1000.0,Arroios
+2493,0,215,Studio,9,,50,3.2,500.0,Ajuda
+3391,4,97,T4,0,,5,3.1,500.0,Ajuda
+3932,2,73,T2,4,True,50,13.2,300.0,Benfica
+1780,3,63,T1,7,True,30,11.3,1000.0,Alvalade
+2860,4,106,T4,1,True,10,10.1,500.0,Olivais
+1075,4,71,T2,4,False,10,6.4,1000.0,Misericórdia
+1807,1,166,Studio,7,True,30,4.3,1500.0,Misericórdia
+3692,3,135,T2,9,False,5,14.7,500.0,Ajuda
+3678,0,124,Studio,4,False,10,12.1,300.0,Arroios
+3234,5,164,T4,1,,,4.9,1000.0,Alvalade
+2712,2,97,T5,2,True,,12.8,300.0,Santo António
+2852,1,176,T4,5,,,11.5,500.0,Estrela
+4068,2,188,T3,4,False,20,4.8,300.0,São Domingos de Benfica
+2155,0,157,T3,3,True,20,6.7,300.0,Parque das Nações
+2079,0,192,T3,3,True,5,3.2,100.0,Alvalade
+2703,4,214,T4,4,True,30,2.1,1000.0,Avenidas Novas
+1890,0,114,T1,1,True,50,11.0,300.0,Santa Maria Maior
+2242,2,218,T4,8,True,5,4.4,100.0,Benfica
+2425,3,188,T5,1,False,50,12.4,100.0,Olivais
+1119,3,112,T2,9,False,5,14.9,500.0,Santa Maria Maior
+1774,4,124,T4,1,,20,1.6,500.0,Olivais
+1456,5,210,T4,9,True,,7.4,500.0,São Domingos de Benfica
+2439,2,61,Studio,8,,30,12.1,1000.0,Santo António
+4453,2,95,Studio,2,True,20,11.9,500.0,Belém
+2881,0,216,Studio,9,False,30,11.5,500.0,Lumiar
+1468,2,145,T4,6,True,50,5.6,1000.0,Avenidas Novas
+1816,1,167,T1,3,True,5,7.1,500.0,Santa Maria Maior
+1543,5,159,T2,5,,10,9.1,100.0,Lumiar
+781,0,223,T2,3,True,10,14.6,100.0,Belém
+3344,1,89,T5,9,False,30,5.2,1000.0,Benfica
+1558,4,245,T1,6,False,,13.9,500.0,Santa Maria Maior
+4793,3,46,T1,0,False,,4.4,500.0,Olivais
+3032,4,125,T2,2,False,30,14.8,500.0,Lumiar
+4328,3,173,T3,2,False,20,10.2,500.0,Lumiar
+1508,4,45,Studio,0,True,10,7.2,1000.0,Parque das Nações
+1729,2,75,Studio,5,False,20,9.4,1500.0,Lumiar
+1535,1,196,T2,8,,50,4.5,500.0,Olivais
+775,3,188,T1,7,True,10,4.5,300.0,Benfica
+3240,0,136,T5,6,True,50,2.1,500.0,Estrela
+2789,1,117,T3,9,False,5,2.2,1500.0,Ajuda
+1739,0,158,T2,7,False,20,5.5,500.0,Alvalade
+625,1,168,Studio,5,False,30,11.6,100.0,Santa Maria Maior
+4565,1,148,T4,8,True,10,9.3,100.0,Santo António
+4812,4,114,T1,2,False,20,2.0,500.0,Arroios
+4368,3,33,T4,9,True,30,12.9,100.0,Misericórdia
+1708,3,100,T5,9,False,5,9.2,500.0,São Domingos de Benfica
+3749,1,183,T2,8,False,10,14.4,100.0,Alvalade
+1418,2,140,Studio,3,True,50,10.2,1500.0,Parque das Nações
+4423,2,79,T3,6,False,5,3.0,1500.0,Lumiar
+4903,0,169,T4,8,,,7.4,500.0,Benfica
+2469,0,124,T3,1,False,30,9.9,500.0,São Domingos de Benfica
+3293,4,238,T5,1,,10,0.9,300.0,Estrela
+1391,1,232,Studio,8,False,10,0.7,500.0,Misericórdia
+4970,0,121,T4,2,False,5,2.4,100.0,Belém
+2533,0,94,T5,8,True,10,4.1,500.0,Estrela
+1864,5,76,T3,4,True,30,6.7,1500.0,Avenidas Novas
+628,1,249,T3,5,True,5,7.6,500.0,Santa Maria Maior
+1514,4,210,T4,1,False,50,2.5,500.0,Ajuda
+2299,0,135,Studio,7,,5,10.3,300.0,Lumiar
+2018,4,228,T3,8,True,5,9.1,1500.0,Arroios
+4681,3,159,T2,1,False,50,4.8,1000.0,Santo António
+1698,4,135,T5,5,False,,0.7,1000.0,Misericórdia
+4373,2,53,T4,5,False,30,1.6,1500.0,São Domingos de Benfica
+2974,2,33,T1,7,True,,6.2,1000.0,Lumiar
+3985,4,137,T1,9,False,,2.7,100.0,Santo António
+4549,2,48,Studio,4,True,,6.0,1000.0,Santo António
+4219,3,183,T2,8,True,20,9.6,100.0,Misericórdia
+802,1,232,T3,0,,,8.4,1500.0,Arroios
+4452,2,69,T1,8,True,20,3.9,1000.0,Ajuda
+1486,2,79,Studio,9,True,50,5.5,1000.0,Santo António
+2363,4,200,T5,6,,30,9.4,500.0,Belém
+4940,3,104,T2,3,True,,13.0,100.0,Santo António
+3572,1,224,T2,2,False,10,11.4,100.0,Olivais
+3624,4,41,Studio,9,True,50,8.5,500.0,Santo António
+1827,4,224,Studio,5,True,20,5.8,300.0,Santo António
+2908,5,56,T3,0,True,30,5.8,1000.0,Benfica
+4173,3,142,Studio,2,True,5,13.3,500.0,Estrela
+3791,1,211,T3,1,False,30,1.1,300.0,Alvalade
+4533,3,223,T3,8,False,30,14.8,500.0,Belém
+1203,1,78,T4,2,False,,10.1,300.0,Avenidas Novas
+1074,3,173,T2,1,,,10.4,1000.0,Belém
+3732,4,159,T5,3,True,20,1.1,500.0,Parque das Nações
+3132,4,89,T2,1,False,20,9.3,100.0,Misericórdia
+4328,0,211,T2,0,False,,7.5,500.0,Misericórdia
+3730,2,59,T4,5,,,2.0,500.0,Parque das Nações
+988,5,113,T3,9,True,10,4.5,1500.0,Estrela
+1847,3,195,T3,7,False,10,13.4,1000.0,Misericórdia
+4181,5,57,Studio,9,,50,8.5,1000.0,Olivais
+3673,0,54,T4,9,True,,6.5,1500.0,Benfica
+2167,2,125,Studio,1,,5,1.6,300.0,Alvalade
+2137,3,154,T4,8,True,10,10.9,500.0,Alvalade
+4614,1,39,Studio,2,False,20,10.7,300.0,Arroios
+4053,2,217,T1,7,,30,9.4,1500.0,Arroios
+1500,4,71,T2,7,False,50,7.9,1500.0,Benfica
+1350,0,69,T2,2,False,10,6.8,500.0,Lumiar
+1888,2,106,T5,2,True,30,9.1,1500.0,Lumiar
+4212,2,134,T3,5,,30,3.9,1500.0,Belém
+1867,4,147,T5,0,False,10,14.1,500.0,São Domingos de Benfica
+1321,3,71,T1,3,True,5,9.0,500.0,Belém
+954,1,76,T5,0,False,5,5.0,1000.0,Avenidas Novas
+2124,4,194,T2,2,False,50,7.0,300.0,Avenidas Novas
+3272,1,237,T3,8,True,5,12.2,1000.0,Santa Maria Maior
+4226,3,51,T1,4,True,50,2.8,1000.0,Parque das Nações
+3647,2,214,T2,4,True,20,4.7,500.0,Ajuda
+4589,1,241,Studio,3,False,10,10.4,300.0,Santa Maria Maior
+2690,0,136,T4,2,False,30,5.1,1000.0,Arroios
+1416,0,56,T1,4,False,50,12.0,500.0,Ajuda
+4486,4,70,T3,3,,5,2.4,300.0,Misericórdia
+3375,3,109,T5,7,,50,11.6,100.0,Alvalade
+1940,4,191,T5,3,False,,1.5,500.0,Belém
+4900,4,189,T1,7,True,50,0.7,1000.0,Lumiar
+1235,5,247,T3,5,False,5,13.5,1500.0,Benfica
+4068,4,118,T1,4,False,,8.9,300.0,Arroios
+3838,5,95,T3,3,False,,5.6,100.0,Alvalade
+3515,0,41,T5,3,False,5,3.9,1500.0,Estrela
+3389,0,197,T2,3,True,,9.4,100.0,São Domingos de Benfica
+1461,4,102,Studio,8,,10,7.9,1000.0,São Domingos de Benfica
+3489,0,105,T2,3,True,30,14.9,1500.0,Benfica
+4348,3,119,Studio,8,False,10,14.8,1000.0,Ajuda
+1526,5,230,T5,9,True,10,9.7,1500.0,Santa Maria Maior
+4365,5,39,T2,5,,5,6.9,300.0,Santa Maria Maior
+3363,4,125,T2,9,True,5,7.6,500.0,Santa Maria Maior
+3001,0,205,T1,6,True,30,10.4,500.0,Olivais
+2447,1,49,T4,9,True,50,2.0,100.0,Ajuda
+1677,5,68,T5,2,True,10,5.3,500.0,Arroios
+511,4,89,T3,7,True,,1.6,1500.0,Benfica
+4899,4,95,T5,2,False,30,1.6,1000.0,Olivais
+3864,3,94,T3,0,False,10,3.3,500.0,Misericórdia
+3522,2,208,T3,9,True,50,7.5,300.0,Estrela
+3871,2,153,Studio,4,True,,11.9,300.0,Ajuda
+3330,5,193,T3,1,,10,7.5,300.0,Estrela
+542,3,181,T3,9,False,20,5.4,500.0,Benfica
+1443,3,184,T1,5,False,30,1.7,1000.0,Alvalade
+2890,3,159,T2,9,False,5,8.5,300.0,Benfica
+3045,5,188,T5,8,True,10,4.4,300.0,Avenidas Novas
+2911,2,86,T5,0,True,,9.4,100.0,Lumiar
+1504,3,107,T3,3,True,,14.7,1500.0,Olivais
+520,0,223,T4,0,,30,2.1,1500.0,Santo António
+906,4,58,T5,0,,30,3.6,1500.0,Alvalade
+1514,4,44,T3,7,False,,7.4,500.0,Ajuda
+4931,1,41,Studio,1,True,,14.5,100.0,Misericórdia
+2338,1,130,Studio,0,True,,11.7,500.0,Estrela
+3688,5,185,Studio,7,True,10,13.5,500.0,São Domingos de Benfica
+1214,5,113,T3,3,False,,5.3,100.0,Benfica
+4646,4,154,T1,2,True,5,14.9,300.0,São Domingos de Benfica
+4354,0,132,T4,3,,,2.0,1000.0,Parque das Nações
+4919,2,53,T3,4,True,5,1.3,500.0,Arroios
+640,2,178,T1,0,,10,12.9,500.0,Ajuda
+1463,5,167,T1,0,False,30,13.9,300.0,Santo António
+872,0,139,T5,2,False,5,1.8,300.0,Arroios
+4135,5,107,T3,5,False,10,2.1,1000.0,Alvalade
+3041,2,130,T3,0,False,,1.0,1500.0,Lumiar
+4110,5,175,T1,1,False,10,2.0,500.0,Avenidas Novas
+2192,3,245,T1,6,False,,3.5,100.0,Ajuda
+605,5,171,T1,0,False,10,14.6,500.0,Lumiar
+2181,4,191,T5,6,,30,10.2,300.0,Santo António
+4597,5,157,T3,3,False,5,11.8,300.0,Lumiar
+4516,4,87,T1,9,False,30,11.8,500.0,Misericórdia
+3136,0,105,Studio,5,,20,8.3,100.0,Alvalade
+2637,2,179,T3,7,True,,12.1,300.0,Benfica
+3916,1,227,T5,8,True,5,9.1,500.0,Parque das Nações
+4945,1,65,Studio,5,False,30,5.1,300.0,Olivais
+4030,2,202,T2,8,False,5,8.6,1500.0,Santo António
+1786,1,193,T3,3,,20,8.2,1500.0,Santa Maria Maior
+3679,5,51,T2,5,False,50,12.4,300.0,Lumiar
+4154,0,235,T1,7,False,,14.7,300.0,Alvalade
+2859,0,156,T5,8,False,,6.5,1500.0,Misericórdia
+944,2,109,T1,2,True,10,11.6,300.0,Ajuda
+535,1,218,T5,1,False,,1.9,100.0,São Domingos de Benfica
+1975,5,129,T4,5,,,11.8,100.0,Belém
+4457,0,213,T1,3,True,30,5.9,1000.0,Belém
+2298,0,246,T2,0,False,,1.1,100.0,Parque das Nações
+2345,3,125,T5,7,False,,5.8,500.0,Avenidas Novas
+1908,3,190,T1,8,True,20,9.4,500.0,Santo António
+2208,0,202,T3,8,True,20,2.2,500.0,Misericórdia
+3438,2,193,T5,1,,5,13.9,300.0,Alvalade
+1800,4,177,T5,8,True,5,1.6,300.0,Misericórdia
+1743,4,47,T1,6,True,,14.0,500.0,Olivais
+4476,5,67,T4,4,True,,10.8,500.0,Olivais
+3597,0,224,T1,6,False,10,5.3,500.0,Benfica
+509,0,180,T2,8,False,5,6.2,100.0,Belém
+2925,0,138,T2,7,False,30,11.2,1500.0,Belém
+2160,2,152,T5,5,True,,9.2,1500.0,Olivais
+3131,3,173,T5,3,,30,10.2,1000.0,Misericórdia
+1572,0,216,T1,0,True,,6.1,500.0,Parque das Nações
+3725,0,226,T2,5,True,30,7.6,1500.0,Parque das Nações
+1816,1,225,T2,2,False,50,14.9,1000.0,Santo António
+4645,2,178,T4,5,True,30,3.6,100.0,Lumiar
+4183,5,133,T3,5,,5,6.6,500.0,Santo António
+3773,0,235,T4,3,,,4.7,500.0,Ajuda
+645,1,235,Studio,1,True,5,11.6,500.0,Belém
+3540,4,227,T4,8,,30,11.6,300.0,Olivais
+1962,5,169,T1,1,False,20,4.7,500.0,Avenidas Novas
+2084,0,173,T3,2,,20,1.7,100.0,São Domingos de Benfica
+982,0,110,T1,9,True,20,0.7,500.0,Misericórdia
+3679,1,116,Studio,0,False,,6.7,500.0,Santo António
+1749,2,171,T3,6,True,10,6.4,500.0,Santo António
+1130,0,90,T5,0,,50,14.8,1000.0,Alvalade
+1161,4,228,T2,8,True,30,7.3,500.0,Ajuda
+4003,0,75,T4,0,False,10,4.2,1500.0,Avenidas Novas
+3352,4,61,T1,4,True,20,13.4,100.0,Santo António
+2966,5,44,Studio,6,True,30,7.6,100.0,Parque das Nações
+1487,5,73,T2,2,False,10,9.2,500.0,Arroios
+2046,3,174,T4,8,,5,1.9,500.0,Arroios
+1149,3,198,T2,7,False,20,6.1,500.0,São Domingos de Benfica
+1468,4,83,T4,2,,10,14.2,500.0,São Domingos de Benfica
+3137,2,73,T5,4,True,,9.0,1000.0,Misericórdia
+1600,0,127,T3,6,False,5,5.5,300.0,Estrela
+940,0,34,T2,3,False,20,9.6,500.0,Santo António
+1269,3,138,T2,4,True,50,13.7,300.0,Santo António
+1843,4,56,T2,2,False,20,4.5,300.0,Santo António
+4858,0,145,T3,8,False,,7.8,100.0,São Domingos de Benfica
+4229,0,116,Studio,9,False,50,14.4,1500.0,Estrela
+4406,2,133,T4,8,False,50,3.0,1500.0,Belém
+2077,1,152,T5,6,False,50,10.9,500.0,Alvalade
+4508,3,235,T2,9,True,30,9.4,1000.0,Santa Maria Maior
+3851,3,108,T3,1,True,30,10.4,1000.0,Lumiar
+2849,1,72,Studio,6,False,50,5.6,1500.0,Misericórdia
+4102,0,126,T4,6,True,5,5.1,500.0,Arroios
+1741,2,60,T3,4,True,50,10.4,1500.0,Arroios
+1625,2,128,T5,8,False,10,3.6,500.0,Alvalade
+3101,3,46,T5,2,False,50,6.6,500.0,Belém
+1690,2,249,T4,3,True,30,3.2,500.0,Estrela
+4631,5,112,T2,0,False,30,0.6,500.0,Avenidas Novas
+4948,1,139,T5,5,False,10,14.6,100.0,Benfica
+572,0,211,Studio,3,True,10,6.8,100.0,Belém
+2414,5,219,T3,0,False,20,14.6,1500.0,Avenidas Novas
+2972,1,244,Studio,1,False,5,2.5,500.0,Belém
+3546,4,61,T2,2,False,5,9.0,500.0,Parque das Nações
+1207,3,197,Studio,8,False,5,3.4,500.0,Lumiar
+2304,2,170,Studio,7,True,,12.0,500.0,Lumiar
+4213,4,241,T1,6,False,30,11.9,100.0,Arroios
+3064,2,64,Studio,3,True,5,2.1,500.0,São Domingos de Benfica
+2975,5,162,T4,0,,20,13.7,300.0,Lumiar
+4110,0,230,T3,7,,20,3.3,1500.0,Arroios
+4755,0,58,T1,3,False,5,9.4,500.0,Belém
+3323,0,99,T3,2,True,10,14.8,1000.0,Alvalade
+2235,2,182,T3,8,True,20,13.3,500.0,Benfica
+2085,4,124,T2,9,True,10,14.4,500.0,Alvalade
+566,0,51,T2,3,False,30,5.5,300.0,Belém
+3561,4,223,T1,3,True,,2.0,500.0,São Domingos de Benfica
+2928,2,202,T5,8,False,20,3.2,300.0,Olivais
+4653,5,98,T2,1,True,10,7.8,1500.0,São Domingos de Benfica
+841,4,248,T2,4,,5,12.0,1500.0,Santo António
+3274,5,118,T2,3,True,30,2.7,1500.0,Misericórdia
+3317,2,101,T3,8,,50,10.1,100.0,Estrela
+3161,2,158,T1,4,,50,5.2,300.0,Misericórdia
+1732,3,241,T3,8,False,5,5.4,500.0,Benfica
+4374,2,201,T4,8,False,30,10.1,1000.0,Lumiar
+2901,2,116,T3,1,False,30,7.3,1000.0,Misericórdia
+1994,1,125,T4,8,False,30,12.3,1500.0,Lumiar
+4711,0,104,Studio,2,True,30,2.8,1000.0,Avenidas Novas
+1161,3,196,Studio,3,True,50,12.0,500.0,Belém
+4383,3,83,T4,0,False,10,1.4,300.0,Benfica
+4119,3,117,T4,0,False,30,3.3,300.0,São Domingos de Benfica
+2368,1,232,T3,0,False,10,10.0,300.0,Avenidas Novas
+2834,5,186,T4,8,True,30,12.9,500.0,Parque das Nações
+3874,2,83,T1,7,True,20,4.2,500.0,Estrela
+1516,0,247,Studio,4,True,,5.2,100.0,Avenidas Novas
+4906,4,45,Studio,4,True,20,8.3,500.0,Avenidas Novas
+707,5,128,T5,8,True,,3.6,300.0,Santo António
+3165,2,49,T4,2,True,20,12.3,300.0,Santa Maria Maior
+2993,1,75,T2,2,True,30,11.7,300.0,Estrela
+1132,2,224,T2,6,,10,2.6,500.0,São Domingos de Benfica
+2602,2,222,T4,8,True,,7.2,1000.0,Olivais
+3459,1,156,T1,5,False,50,11.7,100.0,Parque das Nações
+3583,3,87,T2,1,True,5,5.4,500.0,Avenidas Novas
+2431,3,210,T5,0,,,9.7,300.0,Avenidas Novas
+4219,0,140,T4,1,False,,1.2,1500.0,Arroios
+3062,0,158,T1,0,True,50,9.3,100.0,Estrela
+2179,3,110,T1,9,False,30,2.7,1500.0,São Domingos de Benfica
+736,5,223,T3,9,True,20,12.5,100.0,Ajuda
+4943,4,186,T1,8,False,20,5.7,300.0,Avenidas Novas
+2040,2,113,T2,9,True,10,4.6,100.0,Arroios
+4443,4,99,T2,7,,30,12.7,100.0,Estrela
+863,2,37,T4,6,False,50,1.2,300.0,Belém
+2868,3,58,T4,2,True,30,6.3,500.0,Benfica
+785,0,141,T1,7,False,30,5.9,1500.0,Benfica
+648,5,208,T5,1,True,20,4.6,500.0,Ajuda
+4537,0,190,Studio,1,,50,13.7,1500.0,Santo António
+2266,4,160,T3,9,False,5,11.4,1000.0,Belém
+1512,0,217,Studio,2,False,,1.4,1500.0,Ajuda
+3331,3,192,T1,6,True,20,10.9,1500.0,Lumiar
+3007,5,226,T1,0,,50,8.1,100.0,Alvalade
+2023,4,248,Studio,7,False,10,13.6,1000.0,Estrela
+3285,5,137,T3,6,True,,5.0,300.0,Belém
+3056,2,233,Studio,3,True,,8.8,300.0,Alvalade
+4225,0,241,T4,4,True,20,7.8,500.0,Alvalade
+2101,5,138,T2,9,,10,7.6,1000.0,Benfica
+2908,1,49,T5,0,True,20,7.1,100.0,Avenidas Novas
+840,0,102,T4,3,False,30,3.5,500.0,Benfica
+3317,2,196,T2,0,True,50,11.5,500.0,Parque das Nações
+2996,5,33,T5,0,True,10,7.0,300.0,Lumiar
+2225,4,48,T5,9,False,,14.4,1500.0,São Domingos de Benfica
+2189,2,131,T5,0,,20,4.3,100.0,Santo António
+3767,1,248,T1,6,False,,10.4,1000.0,Belém
+4906,5,202,T5,6,,10,14.1,500.0,Avenidas Novas
+761,3,200,T3,3,False,,10.1,100.0,Olivais
+1942,0,170,Studio,1,True,20,13.1,300.0,Belém
+905,4,170,T3,2,True,20,12.5,500.0,Lumiar
+2690,3,217,Studio,7,False,5,5.7,500.0,Benfica
+4937,5,214,T4,7,,,9.2,500.0,Benfica
+743,5,115,T4,5,,5,2.8,300.0,Estrela
+4607,2,249,Studio,9,True,5,8.3,500.0,Misericórdia
+1060,5,81,T3,8,True,,3.8,300.0,Benfica
+4637,4,140,Studio,8,True,10,11.3,300.0,Ajuda
+3225,3,210,T5,3,,30,8.2,500.0,Estrela
+1093,4,138,T1,0,,20,6.5,100.0,Avenidas Novas
+2326,1,115,T4,0,False,50,4.4,100.0,Santo António
+3729,1,72,T1,9,True,5,15.0,100.0,Avenidas Novas
+3787,0,240,T5,4,False,10,1.5,1500.0,Arroios
+4573,0,229,T5,1,False,,1.1,500.0,Santo António
+633,1,229,T4,5,True,10,3.7,100.0,Santo António
+3638,5,71,T4,6,False,10,14.6,1500.0,Misericórdia
+4419,4,119,T5,0,True,,14.7,500.0,Misericórdia
+572,1,144,T2,5,True,50,10.0,100.0,Ajuda
+4994,0,55,T1,7,,,13.3,300.0,Santo António
+4725,1,180,T1,4,False,50,3.6,1000.0,Misericórdia
+3478,5,72,T2,6,False,,14.6,100.0,Olivais
+4861,1,106,T3,9,False,5,2.6,1000.0,Benfica
+2485,4,185,T1,5,True,50,2.0,100.0,Benfica
+1292,3,166,Studio,3,False,5,2.1,300.0,Estrela
+4759,5,49,T5,6,False,50,8.8,1000.0,Lumiar
+594,0,213,T5,9,False,50,11.8,1500.0,Ajuda
+1633,4,240,T2,8,False,,5.8,300.0,Benfica
+737,1,68,T1,9,True,50,14.7,1000.0,Alvalade
+3446,1,208,T3,9,True,5,6.8,1000.0,Santa Maria Maior
+3030,3,41,T1,6,False,,2.7,500.0,Parque das Nações
+2460,0,236,T5,4,True,20,7.3,500.0,Benfica
+1548,0,212,T4,6,False,5,10.3,300.0,Belém
+3029,2,235,Studio,2,True,20,12.6,300.0,Alvalade
+3464,0,40,T2,1,True,10,7.2,300.0,Lumiar
+1463,3,183,T4,4,True,,9.1,500.0,Alvalade
+1036,2,71,T3,3,,10,4.4,1500.0,São Domingos de Benfica
+4723,2,184,T4,4,True,,9.9,100.0,Misericórdia
+4179,1,40,T4,7,False,,14.8,500.0,Avenidas Novas
+4687,1,67,T3,3,False,5,1.2,1000.0,Parque das Nações
+4224,0,127,T4,8,True,20,13.4,500.0,Santo António
+1042,2,200,T2,6,False,,8.7,100.0,Arroios
+1345,1,48,T5,9,False,20,4.2,300.0,Parque das Nações
+4103,3,221,T1,6,False,,14.3,500.0,São Domingos de Benfica
+3536,1,163,T4,7,,20,7.5,1500.0,Santo António
+2994,5,203,T2,5,True,10,5.3,1500.0,Benfica
+4985,5,145,T1,7,True,5,3.1,500.0,São Domingos de Benfica
+3219,1,142,T1,2,,,4.0,500.0,Estrela
+2384,2,199,T4,9,True,30,12.6,300.0,Olivais
+4638,2,249,T2,9,False,20,9.4,1000.0,Avenidas Novas
+4849,4,94,T5,0,False,20,13.7,500.0,Lumiar
+3701,5,128,T4,5,True,30,3.9,300.0,Estrela
+3210,3,101,T3,0,False,5,2.3,500.0,Benfica
+2453,2,216,T1,8,True,20,0.6,500.0,Estrela
+4350,0,81,T4,1,True,5,7.9,100.0,Avenidas Novas
+1189,5,147,T1,1,True,20,15.0,500.0,Santa Maria Maior
+2450,3,204,T2,6,,50,10.6,300.0,Belém
+956,3,149,Studio,1,True,20,5.0,1000.0,Alvalade
+2630,2,36,T4,9,False,50,13.2,1000.0,Santo António
+4476,3,40,T5,7,,,11.8,300.0,Olivais
+4744,2,132,T4,5,False,5,0.7,500.0,Santa Maria Maior
+1679,1,90,T1,6,False,20,12.3,1500.0,Benfica
+4785,5,97,T2,6,False,10,4.9,300.0,Misericórdia
+4065,4,182,T3,5,True,10,2.7,500.0,Lumiar
+1382,1,169,T5,9,False,30,3.8,1000.0,Misericórdia
+899,5,183,T2,8,False,10,7.3,100.0,Alvalade
+1108,2,131,T4,8,,50,6.7,1000.0,Olivais
+2138,5,139,T3,6,,10,4.7,1500.0,Alvalade
+2648,2,169,T2,8,,10,3.0,1000.0,Ajuda
+1882,1,200,Studio,9,,10,11.6,1500.0,Misericórdia
+1903,0,80,T5,2,False,20,14.9,300.0,Santo António
+1319,0,146,T1,2,False,30,11.8,1000.0,Santa Maria Maior
+3792,5,194,T2,0,,5,4.8,500.0,Alvalade
+1319,0,75,T2,4,True,30,4.0,500.0,Avenidas Novas
+919,2,82,Studio,3,,50,3.7,500.0,Alvalade
+4719,3,117,T4,1,False,20,2.5,500.0,Estrela
+3802,2,237,T5,8,False,,8.5,1000.0,Benfica
+2008,3,150,T5,2,False,20,9.3,1000.0,Santa Maria Maior
+1267,1,42,T1,7,,10,10.7,500.0,Estrela
+2544,4,118,T2,5,True,10,10.4,100.0,Ajuda
+2639,3,154,T3,4,False,50,4.7,1000.0,Parque das Nações
+3529,0,147,T2,0,False,,5.3,100.0,Santo António
+2049,2,83,T1,3,True,20,10.4,100.0,Parque das Nações
+2264,1,214,T2,2,False,,5.6,500.0,Estrela
+3145,0,145,Studio,0,False,5,3.6,100.0,Arroios
+4216,1,147,T2,4,False,30,5.9,100.0,Misericórdia
+4981,4,33,T2,5,True,20,4.4,300.0,Santo António
+2793,2,104,T3,1,False,,1.8,500.0,Estrela
+3208,5,78,Studio,2,False,5,12.5,100.0,São Domingos de Benfica
+1400,2,36,Studio,5,False,5,12.9,500.0,São Domingos de Benfica
+3584,4,139,T2,3,True,30,3.7,100.0,Belém
+2509,2,151,T5,8,,5,1.4,500.0,Belém
+741,5,40,T3,4,False,50,11.2,1000.0,Avenidas Novas
+2885,3,121,T2,3,False,5,3.6,1000.0,Santa Maria Maior
+4768,1,211,T2,1,False,,6.2,500.0,Lumiar
+1171,5,244,T1,5,True,50,1.4,100.0,Avenidas Novas
+663,0,202,T1,9,False,5,3.8,300.0,Ajuda
+964,4,52,T5,1,False,10,12.0,500.0,Santa Maria Maior
+3542,3,57,T3,6,False,5,12.2,1500.0,Ajuda
+2942,0,140,T4,2,False,50,3.5,300.0,Estrela
+2855,0,86,T1,8,False,5,5.4,1500.0,Olivais
+4778,4,55,T4,4,True,5,2.4,500.0,Alvalade
+3057,3,182,Studio,7,False,5,1.6,100.0,Benfica
+1045,0,83,T1,5,True,50,14.9,1500.0,Alvalade
+4335,0,58,T1,9,True,5,10.0,500.0,Alvalade
+1093,3,240,T3,7,,30,8.4,300.0,Ajuda
+4304,2,126,T5,2,False,,11.6,100.0,Ajuda
+1959,0,193,T4,2,False,30,12.7,1500.0,Belém
+3993,1,43,T1,4,False,50,12.2,500.0,Ajuda
+3101,3,107,T1,9,,10,0.7,100.0,Estrela
+2944,0,64,T3,2,False,30,3.2,100.0,Santo António
+3172,4,59,T3,7,False,,10.0,1000.0,Belém
+4700,5,121,T5,9,True,20,5.9,100.0,Misericórdia
+516,1,46,T4,7,,,14.7,500.0,Alvalade
+3691,5,224,Studio,1,,30,10.1,300.0,Misericórdia
+892,5,237,T5,3,,20,14.4,500.0,Santa Maria Maior
+924,0,187,Studio,9,True,50,3.4,1000.0,Alvalade
+1071,1,122,T2,0,True,,13.0,500.0,Santa Maria Maior
+4131,1,202,T1,3,True,10,5.2,500.0,Alvalade
+1620,2,108,T4,3,True,20,14.8,500.0,Lumiar
+741,5,139,T5,9,,20,2.8,1500.0,Alvalade
+4397,1,246,T1,8,True,,8.0,1500.0,Olivais
+4595,2,208,T4,2,True,30,12.0,300.0,Avenidas Novas
+2779,3,131,T4,1,True,20,6.8,500.0,Misericórdia
+1288,2,135,T4,8,True,50,7.3,1500.0,São Domingos de Benfica
+1214,4,76,T1,8,True,,14.8,1500.0,Alvalade
+3349,0,210,T5,0,False,50,6.7,1500.0,Arroios
+1275,3,93,T3,5,False,,9.3,300.0,Arroios
+4526,3,195,T1,9,True,50,1.3,300.0,Arroios
+2747,4,93,T4,7,False,30,12.7,500.0,Estrela
+578,2,116,T5,2,False,,9.9,1000.0,Belém
+4426,0,246,T2,8,True,10,6.4,500.0,Misericórdia
+1355,2,36,Studio,1,False,30,0.7,1500.0,Alvalade
+2648,1,51,T4,5,False,50,9.1,500.0,Parque das Nações
+1531,2,110,T2,0,False,,0.7,1500.0,Avenidas Novas
+3771,3,239,T3,6,False,30,0.5,100.0,Belém
+4076,0,198,T4,2,True,50,9.4,500.0,Parque das Nações
+4682,2,103,T2,6,,5,3.2,500.0,Santa Maria Maior
+3956,0,167,T4,3,,5,3.3,500.0,Benfica
+4006,0,214,T1,8,,20,10.0,1500.0,Olivais
+907,1,164,T5,4,True,10,1.3,1500.0,Benfica
+3211,1,154,T2,2,,5,5.0,1000.0,São Domingos de Benfica
+3588,3,79,T5,7,,50,2.7,100.0,Santa Maria Maior
+2168,4,248,T1,5,,30,8.9,500.0,Ajuda
+647,0,81,T1,1,True,,10.1,300.0,Santa Maria Maior
+4827,4,190,T5,2,False,30,11.0,500.0,Belém
+4397,3,30,T2,7,,20,4.2,500.0,Parque das Nações
+2450,0,210,T5,9,False,30,1.8,500.0,Lumiar
+865,0,217,T5,6,False,5,1.6,1000.0,Alvalade
+2174,5,191,Studio,9,,30,6.7,500.0,Santa Maria Maior
+4994,4,33,T2,5,False,5,14.2,1000.0,Estrela
+3046,2,174,Studio,0,False,5,3.7,500.0,Misericórdia
+1062,1,161,T4,8,False,10,4.2,1000.0,Alvalade
+4062,2,200,T5,2,,20,2.0,1500.0,Misericórdia
+2989,4,247,T4,4,True,50,9.3,300.0,Lumiar
